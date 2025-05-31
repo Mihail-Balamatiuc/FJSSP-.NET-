@@ -1,0 +1,6 @@
+@FJSSPapp_HostAddress = http://localhost:5151
+
+GET {{FJSSPapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
