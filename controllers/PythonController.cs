@@ -74,6 +74,9 @@ public class PythonServiceController : ControllerBase
             {
                 return StatusCode(500, $"Error: {error}");
             }
+            // Writes the output in the needed file
+            string outputPath = Path.Combine(_env.ContentRootPath, "pythonService", "scriptOutput.txt");
+            await System.IO.File.WriteAllTextAsync(outputPath, output);
 
             return Ok(output);
         }
@@ -86,7 +89,7 @@ public class PythonServiceController : ControllerBase
     // GET endpoint to retrieve the current python configuration
     [HttpGet("getConfig")]
     // We make it synchronous because it's a simple operation
-    public IActionResult GetConfig()
+    public async Task<IActionResult> GetConfig()
     {
         try
         {
@@ -96,7 +99,7 @@ public class PythonServiceController : ControllerBase
             {
                 return NotFound("Configuration file not found");
             }
-            string configContent = System.IO.File.ReadAllText(configPath);
+            string configContent = await System.IO.File.ReadAllTextAsync(configPath);
             return Ok(configContent);
         }
         catch (Exception ex)
@@ -107,7 +110,7 @@ public class PythonServiceController : ControllerBase
 
     // POST endpoint to save the updated configuration
     [HttpPost("saveConfig")]
-    public IActionResult SaveConfig([FromBody] JsonElement jsonConfig)
+    public async Task<IActionResult> SaveConfig([FromBody] JsonElement jsonConfig)
     {
         try
         {
@@ -123,7 +126,7 @@ public class PythonServiceController : ControllerBase
             string configPath = Path.Combine(_env.ContentRootPath, "pythonService", "config.json");
 
             // here’s the sync version of writing to the file:
-            System.IO.File.WriteAllText(configPath, rawJson);
+            await System.IO.File.WriteAllTextAsync(configPath, rawJson);
 
             return Ok("Configuration saved successfully.");
         }
@@ -133,4 +136,23 @@ public class PythonServiceController : ControllerBase
         }
     }
 
+    // GET endpoint to download the schedule text file
+    [HttpGet("getSchedule")]
+    public async Task<IActionResult> GetSchedule()
+    {
+        try
+        {
+            string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "scriptOutput.txt");
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound("Schedule file not found");
+            }
+            return PhysicalFile(filePath, "text/plain", "schedule.txt");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error serving schedule: {ex.Message}");
+            return StatusCode(500, "An error occurred while retrieving the schedule");
+        }
+    }
 }

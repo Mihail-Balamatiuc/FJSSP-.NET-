@@ -1,0 +1,1755 @@
+
+Results for SPT:
+Job id: 0
+Machine 3:  0 -> 5
+Machine 3:  5 -> 10
+Machine 6:  13 -> 16
+Machine 1:  17 -> 18
+Machine 5:  20 -> 23
+Machine 4:  23 -> 25
+Machine 4:  25 -> 27
+Machine 0:  152 -> 169
+Machine 7:  169 -> 174
+Machine 5:  174 -> 176
+
+Job id: 1
+Machine 6:  0 -> 3
+Machine 0:  169 -> 186
+Machine 1:  186 -> 187
+Machine 7:  187 -> 192
+Machine 0:  192 -> 201
+Machine 6:  201 -> 214
+Machine 3:  214 -> 219
+Machine 1:  219 -> 220
+Machine 7:  220 -> 223
+Machine 5:  223 -> 225
+
+Job id: 2
+Machine 2:  0 -> 3
+Machine 1:  3 -> 4
+Machine 3:  10 -> 15
+Machine 5:  23 -> 26
+Machine 7:  26 -> 29
+Machine 5:  29 -> 31
+Machine 0:  31 -> 40
+Machine 4:  44 -> 46
+Machine 0:  201 -> 218
+Machine 1:  220 -> 221
+
+Job id: 3
+Machine 3:  15 -> 20
+Machine 2:  20 -> 23
+Machine 0:  40 -> 49
+Machine 7:  49 -> 52
+Machine 6:  52 -> 65
+Machine 1:  65 -> 66
+Machine 4:  66 -> 68
+Machine 6:  68 -> 71
+Machine 0:  218 -> 235
+Machine 5:  235 -> 238
+
+Job id: 4
+Machine 6:  71 -> 84
+Machine 5:  84 -> 86
+Machine 4:  86 -> 88
+Machine 3:  88 -> 93
+Machine 0:  93 -> 102
+Machine 1:  102 -> 103
+Machine 4:  103 -> 105
+Machine 5:  105 -> 108
+Machine 2:  108 -> 111
+Machine 7:  111 -> 116
+
+Job id: 5
+Machine 1:  0 -> 1
+Machine 6:  84 -> 97
+Machine 3:  97 -> 102
+Machine 6:  102 -> 105
+Machine 0:  105 -> 114
+Machine 7:  116 -> 121
+Machine 7:  121 -> 124
+Machine 3:  124 -> 129
+Machine 5:  129 -> 132
+Machine 2:  132 -> 135
+
+Job id: 6
+Machine 7:  29 -> 34
+Machine 7:  34 -> 37
+Machine 1:  37 -> 38
+Machine 0:  235 -> 252
+Machine 6:  252 -> 265
+Machine 1:  265 -> 266
+Machine 4:  266 -> 268
+Machine 0:  268 -> 277
+Machine 3:  277 -> 282
+Machine 5:  282 -> 284
+
+Job id: 7
+Machine 5:  0 -> 2
+Machine 0:  277 -> 294
+Machine 3:  294 -> 299
+Machine 6:  299 -> 312
+Machine 7:  312 -> 317
+Machine 7:  317 -> 320
+Machine 0:  320 -> 329
+Machine 1:  329 -> 330
+Machine 3:  330 -> 335
+Machine 2:  335 -> 338
+
+Job id: 8
+Machine 0:  329 -> 346
+Machine 7:  346 -> 351
+Machine 6:  351 -> 354
+Machine 5:  354 -> 356
+Machine 6:  356 -> 369
+Machine 7:  369 -> 372
+Machine 4:  372 -> 374
+Machine 1:  374 -> 375
+Machine 0:  375 -> 384
+Machine 3:  384 -> 389
+
+Job id: 9
+Machine 0:  384 -> 401
+Machine 6:  401 -> 414
+Machine 4:  414 -> 416
+Machine 0:  416 -> 425
+Machine 7:  425 -> 428
+Machine 3:  428 -> 433
+Machine 5:  433 -> 436
+Machine 5:  436 -> 438
+Machine 6:  438 -> 441
+Machine 7:  441 -> 446
+
+Job id: 10
+Machine 1:  1 -> 2
+Machine 5:  2 -> 4
+Machine 6:  4 -> 7
+Machine 3:  20 -> 25
+Machine 5:  31 -> 34
+Machine 0:  425 -> 442
+Machine 2:  442 -> 445
+Machine 4:  445 -> 447
+Machine 7:  447 -> 452
+Machine 0:  452 -> 461
+
+Job id: 11
+Machine 7:  0 -> 3
+Machine 4:  3 -> 5
+Machine 6:  7 -> 10
+Machine 0:  461 -> 478
+Machine 0:  478 -> 487
+Machine 5:  487 -> 489
+Machine 4:  489 -> 491
+Machine 2:  491 -> 494
+Machine 3:  494 -> 499
+Machine 1:  499 -> 500
+
+Job id: 12
+Machine 7:  37 -> 42
+Machine 4:  42 -> 44
+Machine 3:  44 -> 49
+Machine 1:  49 -> 50
+Machine 6:  105 -> 118
+Machine 6:  118 -> 121
+Machine 3:  129 -> 134
+Machine 0:  134 -> 143
+Machine 5:  143 -> 146
+Machine 7:  146 -> 149
+
+Job id: 13
+Machine 6:  10 -> 13
+Machine 4:  13 -> 15
+Machine 1:  15 -> 16
+Machine 1:  16 -> 17
+Machine 5:  17 -> 20
+Machine 3:  49 -> 54
+Machine 6:  121 -> 134
+Machine 4:  134 -> 136
+Machine 0:  143 -> 152
+Machine 0:  487 -> 504
+
+Job id: 14
+Machine 7:  42 -> 47
+Machine 5:  47 -> 50
+Machine 6:  134 -> 147
+Machine 3:  147 -> 152
+Machine 6:  152 -> 155
+Machine 0:  504 -> 521
+Machine 0:  521 -> 530
+Machine 4:  530 -> 532
+Machine 3:  532 -> 537
+Machine 1:  537 -> 538
+
+The total time is: 538
+
+During SPT
+
+Machine 0 was idle for 208 units of time
+Machine 1 was idle for 520 units of time
+Machine 2 was idle for 517 units of time
+Machine 3 was idle for 438 units of time
+Machine 4 was idle for 506 units of time
+Machine 5 was idle for 488 units of time
+Machine 6 was idle for 362 units of time
+Machine 7 was idle for 453 units of time
+
+
+Results for LPT:
+Job id: 0
+Machine 4:  0 -> 19
+Machine 2:  19 -> 37
+Machine 7:  37 -> 55
+Machine 2:  55 -> 74
+Machine 4:  410 -> 416
+Machine 7:  633 -> 651
+Machine 4:  940 -> 942
+Machine 0:  1005 -> 1022
+Machine 2:  1049 -> 1063
+Machine 7:  1063 -> 1082
+
+Job id: 1
+Machine 7:  55 -> 73
+Machine 0:  73 -> 90
+Machine 3:  90 -> 103
+Machine 2:  197 -> 211
+Machine 1:  211 -> 229
+Machine 5:  229 -> 244
+Machine 4:  244 -> 263
+Machine 2:  263 -> 282
+Machine 5:  282 -> 295
+Machine 7:  295 -> 314
+
+Job id: 2
+Machine 4:  769 -> 774
+Machine 2:  877 -> 896
+Machine 2:  896 -> 914
+Machine 4:  914 -> 920
+Machine 5:  920 -> 933
+Machine 7:  933 -> 952
+Machine 1:  952 -> 970
+Machine 7:  970 -> 988
+Machine 0:  988 -> 1005
+Machine 3:  1005 -> 1018
+
+Job id: 3
+Machine 2:  74 -> 92
+Machine 4:  920 -> 925
+Machine 1:  970 -> 988
+Machine 5:  988 -> 1001
+Machine 5:  1001 -> 1016
+Machine 2:  1016 -> 1035
+Machine 4:  1035 -> 1037
+Machine 7:  1082 -> 1100
+Machine 0:  1100 -> 1117
+Machine 4:  1117 -> 1123
+
+Job id: 4
+Machine 5:  0 -> 15
+Machine 7:  109 -> 128
+Machine 4:  1123 -> 1125
+Machine 4:  1125 -> 1144
+Machine 1:  1144 -> 1162
+Machine 2:  1162 -> 1181
+Machine 7:  1181 -> 1199
+Machine 4:  1199 -> 1205
+Machine 4:  1205 -> 1210
+Machine 2:  1210 -> 1224
+
+Job id: 5
+Machine 3:  103 -> 116
+Machine 5:  295 -> 310
+Machine 2:  310 -> 328
+Machine 7:  328 -> 346
+Machine 1:  346 -> 364
+Machine 2:  364 -> 378
+Machine 5:  378 -> 391
+Machine 4:  391 -> 410
+Machine 4:  416 -> 422
+Machine 4:  925 -> 930
+
+Job id: 6
+Machine 2:  92 -> 106
+Machine 5:  391 -> 404
+Machine 3:  404 -> 417
+Machine 0:  417 -> 434
+Machine 5:  434 -> 449
+Machine 2:  449 -> 468
+Machine 4:  1210 -> 1212
+Machine 1:  1212 -> 1230
+Machine 2:  1230 -> 1248
+Machine 7:  1248 -> 1267
+
+Job id: 7
+Machine 7:  0 -> 19
+Machine 0:  90 -> 107
+Machine 4:  107 -> 126
+Machine 5:  126 -> 141
+Machine 2:  141 -> 155
+Machine 5:  449 -> 462
+Machine 1:  462 -> 480
+Machine 3:  480 -> 493
+Machine 2:  493 -> 511
+Machine 4:  930 -> 935
+
+Job id: 8
+Machine 0:  107 -> 124
+Machine 2:  155 -> 169
+Machine 7:  174 -> 192
+Machine 7:  192 -> 211
+Machine 5:  211 -> 226
+Machine 5:  462 -> 475
+Machine 4:  1212 -> 1214
+Machine 3:  1214 -> 1227
+Machine 1:  1230 -> 1248
+Machine 4:  1248 -> 1267
+
+Job id: 9
+Machine 0:  124 -> 141
+Machine 5:  141 -> 156
+Machine 7:  156 -> 174
+Machine 1:  174 -> 192
+Machine 5:  475 -> 488
+Machine 2:  511 -> 529
+Machine 4:  529 -> 535
+Machine 7:  651 -> 670
+Machine 7:  670 -> 688
+Machine 2:  688 -> 702
+
+Job id: 10
+Machine 3:  493 -> 506
+Machine 7:  506 -> 525
+Machine 7:  525 -> 543
+Machine 2:  543 -> 561
+Machine 4:  561 -> 567
+Machine 0:  596 -> 613
+Machine 4:  935 -> 940
+Machine 7:  988 -> 1006
+Machine 2:  1035 -> 1049
+Machine 1:  1049 -> 1067
+
+Job id: 11
+Machine 5:  488 -> 501
+Machine 7:  543 -> 561
+Machine 7:  561 -> 579
+Machine 0:  579 -> 596
+Machine 1:  596 -> 614
+Machine 7:  614 -> 633
+Machine 4:  1267 -> 1269
+Machine 4:  1269 -> 1274
+Machine 4:  1274 -> 1293
+Machine 3:  1293 -> 1306
+
+Job id: 12
+Machine 2:  169 -> 183
+Machine 4:  1293 -> 1295
+Machine 2:  1295 -> 1313
+Machine 2:  1313 -> 1332
+Machine 5:  1332 -> 1347
+Machine 7:  1347 -> 1365
+Machine 4:  1365 -> 1384
+Machine 1:  1384 -> 1402
+Machine 4:  1402 -> 1408
+Machine 5:  1408 -> 1421
+
+Job id: 13
+Machine 7:  73 -> 91
+Machine 7:  91 -> 109
+Machine 3:  506 -> 519
+Machine 2:  561 -> 580
+Machine 4:  580 -> 586
+Machine 2:  702 -> 720
+Machine 5:  720 -> 735
+Machine 4:  1408 -> 1410
+Machine 1:  1410 -> 1428
+Machine 0:  1428 -> 1445
+
+Job id: 14
+Machine 2:  183 -> 197
+Machine 4:  586 -> 592
+Machine 5:  735 -> 750
+Machine 4:  750 -> 769
+Machine 7:  769 -> 787
+Machine 0:  787 -> 804
+Machine 1:  804 -> 822
+Machine 7:  822 -> 840
+Machine 2:  840 -> 858
+Machine 2:  858 -> 877
+
+The total time is: 1445
+
+During LPT
+
+Machine 0 was idle for 1241 units of time
+Machine 1 was idle for 1193 units of time
+Machine 2 was idle for 922 units of time
+Machine 3 was idle for 1328 units of time
+Machine 4 was idle for 1163 units of time
+Machine 5 was idle for 1150 units of time
+Machine 6 was idle for 1445 units of time
+Machine 7 was idle for 913 units of time
+
+
+Results for MWR:
+Job id: 0
+Machine 3:  25 -> 30
+Machine 3:  59 -> 64
+Machine 6:  125 -> 128
+Machine 1:  128 -> 129
+Machine 5:  129 -> 132
+Machine 4:  132 -> 134
+Machine 4:  136 -> 138
+Machine 0:  190 -> 207
+Machine 7:  207 -> 212
+Machine 5:  318 -> 320
+
+Job id: 1
+Machine 6:  0 -> 3
+Machine 0:  51 -> 68
+Machine 1:  68 -> 69
+Machine 7:  80 -> 85
+Machine 0:  145 -> 154
+Machine 6:  157 -> 170
+Machine 3:  186 -> 191
+Machine 1:  269 -> 270
+Machine 7:  270 -> 273
+Machine 5:  320 -> 322
+
+Job id: 2
+Machine 2:  8 -> 11
+Machine 1:  16 -> 17
+Machine 3:  44 -> 49
+Machine 5:  49 -> 52
+Machine 7:  85 -> 88
+Machine 5:  132 -> 134
+Machine 0:  163 -> 172
+Machine 4:  172 -> 174
+Machine 0:  242 -> 259
+Machine 1:  270 -> 271
+
+Job id: 3
+Machine 3:  0 -> 5
+Machine 2:  5 -> 8
+Machine 0:  68 -> 77
+Machine 7:  77 -> 80
+Machine 6:  80 -> 93
+Machine 1:  129 -> 130
+Machine 4:  138 -> 140
+Machine 6:  170 -> 173
+Machine 0:  225 -> 242
+Machine 5:  315 -> 318
+
+Job id: 4
+Machine 6:  37 -> 50
+Machine 5:  111 -> 113
+Machine 4:  113 -> 115
+Machine 3:  115 -> 120
+Machine 0:  207 -> 216
+Machine 1:  216 -> 217
+Machine 4:  217 -> 219
+Machine 5:  227 -> 230
+Machine 2:  232 -> 235
+Machine 7:  273 -> 278
+
+Job id: 5
+Machine 1:  9 -> 10
+Machine 6:  21 -> 34
+Machine 3:  64 -> 69
+Machine 6:  154 -> 157
+Machine 0:  172 -> 181
+Machine 7:  181 -> 186
+Machine 7:  186 -> 189
+Machine 3:  191 -> 196
+Machine 5:  232 -> 235
+Machine 2:  235 -> 238
+
+Job id: 6
+Machine 7:  5 -> 10
+Machine 7:  10 -> 13
+Machine 1:  13 -> 14
+Machine 0:  77 -> 94
+Machine 6:  141 -> 154
+Machine 1:  154 -> 155
+Machine 4:  174 -> 176
+Machine 0:  294 -> 303
+Machine 3:  303 -> 308
+Machine 5:  322 -> 324
+
+Job id: 7
+Machine 5:  0 -> 2
+Machine 0:  17 -> 34
+Machine 3:  34 -> 39
+Machine 6:  93 -> 106
+Machine 7:  106 -> 111
+Machine 7:  111 -> 114
+Machine 0:  259 -> 268
+Machine 1:  268 -> 269
+Machine 3:  269 -> 274
+Machine 2:  274 -> 277
+
+Job id: 8
+Machine 0:  34 -> 51
+Machine 7:  51 -> 56
+Machine 6:  106 -> 109
+Machine 5:  109 -> 111
+Machine 6:  128 -> 141
+Machine 7:  166 -> 169
+Machine 4:  176 -> 178
+Machine 1:  178 -> 179
+Machine 0:  312 -> 321
+Machine 3:  321 -> 326
+
+Job id: 9
+Machine 0:  0 -> 17
+Machine 6:  50 -> 63
+Machine 4:  63 -> 65
+Machine 0:  154 -> 163
+Machine 7:  163 -> 166
+Machine 3:  181 -> 186
+Machine 5:  186 -> 189
+Machine 5:  230 -> 232
+Machine 6:  232 -> 235
+Machine 7:  278 -> 283
+
+Job id: 10
+Machine 1:  14 -> 15
+Machine 5:  15 -> 17
+Machine 6:  34 -> 37
+Machine 3:  39 -> 44
+Machine 5:  44 -> 47
+Machine 0:  111 -> 128
+Machine 2:  128 -> 131
+Machine 4:  178 -> 180
+Machine 7:  189 -> 194
+Machine 0:  321 -> 330
+
+Job id: 11
+Machine 7:  18 -> 21
+Machine 4:  21 -> 23
+Machine 6:  63 -> 66
+Machine 0:  94 -> 111
+Machine 0:  216 -> 225
+Machine 5:  225 -> 227
+Machine 4:  227 -> 229
+Machine 2:  229 -> 232
+Machine 3:  308 -> 313
+Machine 1:  313 -> 314
+
+Job id: 12
+Machine 7:  13 -> 18
+Machine 4:  23 -> 25
+Machine 3:  49 -> 54
+Machine 1:  69 -> 70
+Machine 6:  112 -> 125
+Machine 6:  173 -> 176
+Machine 3:  176 -> 181
+Machine 0:  303 -> 312
+Machine 5:  312 -> 315
+Machine 7:  315 -> 318
+
+Job id: 13
+Machine 6:  3 -> 6
+Machine 4:  6 -> 8
+Machine 1:  8 -> 9
+Machine 1:  15 -> 16
+Machine 5:  17 -> 20
+Machine 3:  20 -> 25
+Machine 6:  66 -> 79
+Machine 4:  134 -> 136
+Machine 0:  181 -> 190
+Machine 0:  268 -> 285
+
+Job id: 14
+Machine 7:  0 -> 5
+Machine 5:  5 -> 8
+Machine 6:  8 -> 21
+Machine 3:  54 -> 59
+Machine 6:  109 -> 112
+Machine 0:  128 -> 145
+Machine 0:  285 -> 294
+Machine 4:  294 -> 296
+Machine 3:  313 -> 318
+Machine 1:  318 -> 319
+
+The total time is: 330
+
+During MWR
+
+Machine 0 was idle for 0 units of time
+Machine 1 was idle for 312 units of time
+Machine 2 was idle for 309 units of time
+Machine 3 was idle for 230 units of time
+Machine 4 was idle for 298 units of time
+Machine 5 was idle for 280 units of time
+Machine 6 was idle for 154 units of time
+Machine 7 was idle for 245 units of time
+
+
+Results for LWR:
+Job id: 0
+Machine 3:  0 -> 5
+Machine 3:  5 -> 10
+Machine 6:  10 -> 13
+Machine 1:  13 -> 14
+Machine 5:  14 -> 17
+Machine 4:  17 -> 19
+Machine 4:  19 -> 21
+Machine 0:  21 -> 38
+Machine 7:  38 -> 43
+Machine 5:  43 -> 45
+
+Job id: 1
+Machine 6:  341 -> 344
+Machine 0:  353 -> 370
+Machine 1:  370 -> 371
+Machine 7:  371 -> 376
+Machine 0:  376 -> 385
+Machine 6:  385 -> 398
+Machine 3:  398 -> 403
+Machine 1:  403 -> 404
+Machine 7:  404 -> 407
+Machine 5:  407 -> 409
+
+Job id: 2
+Machine 2:  72 -> 75
+Machine 1:  75 -> 76
+Machine 3:  76 -> 81
+Machine 5:  81 -> 84
+Machine 7:  84 -> 87
+Machine 5:  87 -> 89
+Machine 0:  89 -> 98
+Machine 4:  98 -> 100
+Machine 0:  100 -> 117
+Machine 1:  117 -> 118
+
+Job id: 3
+Machine 3:  403 -> 408
+Machine 2:  408 -> 411
+Machine 0:  411 -> 420
+Machine 7:  420 -> 423
+Machine 6:  423 -> 436
+Machine 1:  436 -> 437
+Machine 4:  437 -> 439
+Machine 6:  439 -> 442
+Machine 0:  442 -> 459
+Machine 5:  459 -> 462
+
+Job id: 4
+Machine 6:  13 -> 26
+Machine 5:  45 -> 47
+Machine 4:  47 -> 49
+Machine 3:  49 -> 54
+Machine 0:  54 -> 63
+Machine 1:  63 -> 64
+Machine 4:  64 -> 66
+Machine 5:  66 -> 69
+Machine 2:  69 -> 72
+Machine 7:  72 -> 77
+
+Job id: 5
+Machine 1:  161 -> 162
+Machine 6:  177 -> 190
+Machine 3:  190 -> 195
+Machine 6:  195 -> 198
+Machine 0:  198 -> 207
+Machine 7:  207 -> 212
+Machine 7:  212 -> 215
+Machine 3:  215 -> 220
+Machine 5:  220 -> 223
+Machine 2:  223 -> 226
+
+Job id: 6
+Machine 7:  263 -> 268
+Machine 7:  268 -> 271
+Machine 1:  271 -> 272
+Machine 0:  311 -> 328
+Machine 6:  328 -> 341
+Machine 1:  341 -> 342
+Machine 4:  342 -> 344
+Machine 0:  344 -> 353
+Machine 3:  353 -> 358
+Machine 5:  358 -> 360
+
+Job id: 7
+Machine 5:  568 -> 570
+Machine 0:  570 -> 587
+Machine 3:  587 -> 592
+Machine 6:  592 -> 605
+Machine 7:  605 -> 610
+Machine 7:  610 -> 613
+Machine 0:  613 -> 622
+Machine 1:  622 -> 623
+Machine 3:  623 -> 628
+Machine 2:  628 -> 631
+
+Job id: 8
+Machine 0:  459 -> 476
+Machine 7:  476 -> 481
+Machine 6:  481 -> 484
+Machine 5:  484 -> 486
+Machine 6:  486 -> 499
+Machine 7:  499 -> 502
+Machine 4:  502 -> 504
+Machine 1:  504 -> 505
+Machine 0:  505 -> 514
+Machine 3:  514 -> 519
+
+Job id: 9
+Machine 0:  514 -> 531
+Machine 6:  531 -> 544
+Machine 4:  544 -> 546
+Machine 0:  546 -> 555
+Machine 7:  555 -> 558
+Machine 3:  558 -> 563
+Machine 5:  563 -> 566
+Machine 5:  566 -> 568
+Machine 6:  568 -> 571
+Machine 7:  571 -> 576
+
+Job id: 10
+Machine 1:  162 -> 163
+Machine 5:  223 -> 225
+Machine 6:  225 -> 228
+Machine 3:  228 -> 233
+Machine 5:  233 -> 236
+Machine 0:  236 -> 253
+Machine 2:  253 -> 256
+Machine 4:  256 -> 258
+Machine 7:  258 -> 263
+Machine 0:  263 -> 272
+
+Job id: 11
+Machine 7:  87 -> 90
+Machine 4:  100 -> 102
+Machine 6:  102 -> 105
+Machine 0:  117 -> 134
+Machine 0:  134 -> 143
+Machine 5:  143 -> 145
+Machine 4:  145 -> 147
+Machine 2:  147 -> 150
+Machine 3:  150 -> 155
+Machine 1:  155 -> 156
+
+Job id: 12
+Machine 7:  90 -> 95
+Machine 4:  147 -> 149
+Machine 3:  155 -> 160
+Machine 1:  160 -> 161
+Machine 6:  161 -> 174
+Machine 6:  174 -> 177
+Machine 3:  177 -> 182
+Machine 0:  182 -> 191
+Machine 5:  191 -> 194
+Machine 7:  194 -> 197
+
+Job id: 13
+Machine 6:  228 -> 231
+Machine 4:  258 -> 260
+Machine 1:  260 -> 261
+Machine 1:  261 -> 262
+Machine 5:  262 -> 265
+Machine 3:  265 -> 270
+Machine 6:  270 -> 283
+Machine 4:  283 -> 285
+Machine 0:  285 -> 294
+Machine 0:  294 -> 311
+
+Job id: 14
+Machine 7:  613 -> 618
+Machine 5:  618 -> 621
+Machine 6:  621 -> 634
+Machine 3:  634 -> 639
+Machine 6:  639 -> 642
+Machine 0:  642 -> 659
+Machine 0:  659 -> 668
+Machine 4:  668 -> 670
+Machine 3:  670 -> 675
+Machine 1:  675 -> 676
+
+The total time is: 676
+
+During LWR
+
+Machine 0 was idle for 346 units of time
+Machine 1 was idle for 658 units of time
+Machine 2 was idle for 655 units of time
+Machine 3 was idle for 576 units of time
+Machine 4 was idle for 644 units of time
+Machine 5 was idle for 626 units of time
+Machine 6 was idle for 500 units of time
+Machine 7 was idle for 591 units of time
+
+
+Results for SA:
+Job id: 0
+Machine 6:  0 -> 15
+Machine 2:  37 -> 55
+Machine 7:  133 -> 151
+Machine 6:  151 -> 153
+Machine 5:  172 -> 175
+Machine 4:  207 -> 209
+Machine 4:  216 -> 218
+Machine 0:  258 -> 275
+Machine 0:  292 -> 304
+Machine 5:  304 -> 306
+
+Job id: 1
+Machine 7:  0 -> 18
+Machine 0:  46 -> 63
+Machine 3:  63 -> 76
+Machine 1:  98 -> 108
+Machine 5:  108 -> 126
+Machine 5:  129 -> 144
+Machine 7:  188 -> 199
+Machine 4:  200 -> 207
+Machine 3:  251 -> 262
+Machine 7:  262 -> 281
+
+Job id: 2
+Machine 4:  10 -> 15
+Machine 6:  153 -> 155
+Machine 3:  155 -> 160
+Machine 4:  188 -> 194
+Machine 0:  218 -> 225
+Machine 7:  225 -> 244
+Machine 1:  244 -> 262
+Machine 7:  281 -> 299
+Machine 0:  304 -> 321
+Machine 1:  321 -> 322
+
+Job id: 3
+Machine 2:  0 -> 18
+Machine 4:  19 -> 24
+Machine 2:  24 -> 37
+Machine 5:  57 -> 70
+Machine 5:  74 -> 89
+Machine 1:  97 -> 98
+Machine 4:  126 -> 128
+Machine 5:  175 -> 186
+Machine 0:  275 -> 292
+Machine 4:  310 -> 316
+
+Job id: 4
+Machine 5:  0 -> 15
+Machine 5:  15 -> 17
+Machine 4:  17 -> 19
+Machine 6:  28 -> 43
+Machine 1:  43 -> 61
+Machine 6:  110 -> 112
+Machine 7:  115 -> 133
+Machine 5:  236 -> 239
+Machine 2:  276 -> 279
+Machine 1:  279 -> 289
+
+Job id: 5
+Machine 1:  0 -> 1
+Machine 6:  15 -> 28
+Machine 3:  37 -> 42
+Machine 7:  42 -> 60
+Machine 5:  89 -> 107
+Machine 1:  108 -> 118
+Machine 7:  244 -> 247
+Machine 6:  247 -> 262
+Machine 5:  289 -> 292
+Machine 2:  304 -> 307
+
+Job id: 6
+Machine 4:  0 -> 10
+Machine 7:  18 -> 21
+Machine 1:  21 -> 22
+Machine 0:  63 -> 80
+Machine 6:  80 -> 93
+Machine 4:  93 -> 100
+Machine 4:  186 -> 188
+Machine 2:  201 -> 214
+Machine 2:  214 -> 232
+Machine 6:  232 -> 247
+
+Job id: 7
+Machine 5:  72 -> 74
+Machine 0:  80 -> 97
+Machine 4:  107 -> 126
+Machine 6:  126 -> 139
+Machine 4:  139 -> 149
+Machine 5:  159 -> 172
+Machine 2:  172 -> 185
+Machine 3:  185 -> 198
+Machine 3:  198 -> 203
+Machine 2:  279 -> 282
+
+Job id: 8
+Machine 0:  17 -> 34
+Machine 0:  34 -> 46
+Machine 5:  46 -> 57
+Machine 7:  78 -> 97
+Machine 6:  97 -> 110
+Machine 0:  144 -> 151
+Machine 4:  184 -> 186
+Machine 1:  186 -> 187
+Machine 2:  250 -> 263
+Machine 6:  275 -> 290
+
+Job id: 9
+Machine 0:  0 -> 17
+Machine 5:  17 -> 32
+Machine 3:  32 -> 37
+Machine 1:  79 -> 97
+Machine 3:  97 -> 108
+Machine 2:  108 -> 126
+Machine 4:  194 -> 200
+Machine 5:  276 -> 278
+Machine 5:  278 -> 289
+Machine 7:  299 -> 304
+
+Job id: 10
+Machine 1:  22 -> 23
+Machine 5:  70 -> 72
+Machine 6:  118 -> 121
+Machine 3:  121 -> 126
+Machine 4:  178 -> 184
+Machine 0:  184 -> 201
+Machine 4:  209 -> 214
+Machine 3:  241 -> 246
+Machine 0:  246 -> 258
+Machine 2:  263 -> 276
+
+Job id: 11
+Machine 7:  21 -> 24
+Machine 7:  97 -> 115
+Machine 6:  115 -> 118
+Machine 0:  118 -> 135
+Machine 0:  135 -> 144
+Machine 7:  151 -> 170
+Machine 4:  214 -> 216
+Machine 2:  282 -> 285
+Machine 4:  285 -> 304
+Machine 1:  304 -> 305
+
+Job id: 12
+Machine 1:  11 -> 21
+Machine 4:  24 -> 26
+Machine 3:  42 -> 47
+Machine 4:  100 -> 107
+Machine 6:  155 -> 168
+Machine 7:  170 -> 188
+Machine 7:  247 -> 258
+Machine 5:  258 -> 276
+Machine 4:  304 -> 310
+Machine 7:  310 -> 313
+
+Job id: 13
+Machine 6:  43 -> 46
+Machine 7:  60 -> 78
+Machine 1:  78 -> 79
+Machine 2:  79 -> 98
+Machine 5:  126 -> 129
+Machine 2:  232 -> 250
+Machine 6:  262 -> 275
+Machine 4:  275 -> 277
+Machine 3:  277 -> 288
+Machine 0:  321 -> 338
+
+Job id: 14
+Machine 1:  1 -> 11
+Machine 4:  26 -> 32
+Machine 5:  144 -> 159
+Machine 4:  159 -> 178
+Machine 2:  185 -> 201
+Machine 0:  201 -> 218
+Machine 5:  218 -> 236
+Machine 3:  236 -> 241
+Machine 3:  246 -> 251
+Machine 2:  285 -> 304
+
+The total time is: 338
+
+During SA
+
+Machine 0 was idle for 75 units of time
+Machine 1 was idle for 226 units of time
+Machine 2 was idle for 117 units of time
+Machine 3 was idle for 234 units of time
+Machine 4 was idle for 171 units of time
+Machine 5 was idle for 110 units of time
+Machine 6 was idle for 170 units of time
+Machine 7 was idle for 79 units of time
+
+
+Results for HC:
+Job id: 0
+Machine 7:  0 -> 11
+Machine 2:  14 -> 32
+Machine 5:  113 -> 124
+Machine 1:  159 -> 160
+Machine 5:  165 -> 168
+Machine 7:  184 -> 202
+Machine 4:  202 -> 204
+Machine 0:  204 -> 221
+Machine 7:  221 -> 226
+Machine 5:  227 -> 229
+
+Job id: 1
+Machine 6:  0 -> 3
+Machine 0:  58 -> 75
+Machine 1:  75 -> 76
+Machine 7:  76 -> 81
+Machine 0:  81 -> 90
+Machine 6:  91 -> 104
+Machine 6:  166 -> 181
+Machine 4:  181 -> 188
+Machine 5:  194 -> 207
+Machine 6:  207 -> 222
+
+Job id: 2
+Machine 4:  10 -> 15
+Machine 6:  45 -> 47
+Machine 3:  68 -> 73
+Machine 4:  73 -> 79
+Machine 7:  122 -> 125
+Machine 6:  125 -> 140
+Machine 3:  152 -> 163
+Machine 4:  168 -> 170
+Machine 0:  170 -> 187
+Machine 3:  206 -> 219
+
+Job id: 3
+Machine 2:  32 -> 50
+Machine 2:  50 -> 53
+Machine 3:  78 -> 89
+Machine 7:  119 -> 122
+Machine 5:  124 -> 139
+Machine 1:  139 -> 140
+Machine 4:  140 -> 142
+Machine 2:  142 -> 158
+Machine 0:  187 -> 204
+Machine 4:  204 -> 210
+
+Job id: 4
+Machine 6:  3 -> 16
+Machine 5:  47 -> 49
+Machine 4:  62 -> 64
+Machine 7:  81 -> 92
+Machine 2:  99 -> 112
+Machine 4:  112 -> 119
+Machine 4:  119 -> 121
+Machine 4:  123 -> 129
+Machine 2:  158 -> 161
+Machine 1:  197 -> 207
+
+Job id: 5
+Machine 1:  0 -> 1
+Machine 5:  32 -> 47
+Machine 3:  63 -> 68
+Machine 2:  83 -> 99
+Machine 3:  99 -> 110
+Machine 2:  112 -> 126
+Machine 7:  126 -> 129
+Machine 3:  186 -> 191
+Machine 5:  191 -> 194
+Machine 2:  204 -> 207
+
+Job id: 6
+Machine 4:  0 -> 10
+Machine 0:  17 -> 24
+Machine 3:  121 -> 134
+Machine 0:  136 -> 153
+Machine 6:  153 -> 166
+Machine 1:  166 -> 167
+Machine 4:  170 -> 172
+Machine 1:  172 -> 190
+Machine 3:  196 -> 201
+Machine 5:  207 -> 209
+
+Job id: 7
+Machine 7:  11 -> 30
+Machine 0:  41 -> 58
+Machine 3:  58 -> 63
+Machine 6:  75 -> 88
+Machine 0:  90 -> 102
+Machine 3:  110 -> 121
+Machine 2:  126 -> 139
+Machine 1:  140 -> 141
+Machine 3:  163 -> 168
+Machine 2:  201 -> 204
+
+Job id: 8
+Machine 0:  0 -> 17
+Machine 1:  17 -> 27
+Machine 6:  27 -> 30
+Machine 5:  52 -> 54
+Machine 5:  83 -> 98
+Machine 7:  98 -> 101
+Machine 4:  147 -> 149
+Machine 1:  167 -> 168
+Machine 5:  209 -> 227
+Machine 7:  227 -> 238
+
+Job id: 9
+Machine 0:  24 -> 41
+Machine 6:  47 -> 60
+Machine 4:  60 -> 62
+Machine 5:  65 -> 83
+Machine 7:  92 -> 95
+Machine 3:  147 -> 152
+Machine 5:  157 -> 160
+Machine 5:  163 -> 165
+Machine 6:  181 -> 184
+Machine 4:  188 -> 198
+
+Job id: 10
+Machine 3:  0 -> 13
+Machine 6:  30 -> 45
+Machine 5:  54 -> 65
+Machine 2:  65 -> 83
+Machine 4:  83 -> 89
+Machine 0:  102 -> 119
+Machine 4:  142 -> 147
+Machine 7:  166 -> 184
+Machine 2:  184 -> 198
+Machine 2:  207 -> 220
+
+Job id: 11
+Machine 7:  30 -> 33
+Machine 4:  33 -> 35
+Machine 7:  101 -> 119
+Machine 0:  119 -> 136
+Machine 3:  136 -> 147
+Machine 7:  147 -> 166
+Machine 4:  166 -> 168
+Machine 2:  198 -> 201
+Machine 3:  201 -> 206
+Machine 1:  207 -> 208
+
+Job id: 12
+Machine 1:  27 -> 37
+Machine 4:  37 -> 39
+Machine 3:  39 -> 44
+Machine 6:  60 -> 62
+Machine 6:  62 -> 75
+Machine 6:  88 -> 91
+Machine 6:  107 -> 122
+Machine 5:  139 -> 157
+Machine 5:  160 -> 163
+Machine 5:  168 -> 181
+
+Job id: 13
+Machine 5:  0 -> 11
+Machine 4:  39 -> 41
+Machine 1:  41 -> 42
+Machine 4:  42 -> 49
+Machine 5:  49 -> 52
+Machine 3:  73 -> 78
+Machine 5:  98 -> 113
+Machine 4:  121 -> 123
+Machine 1:  141 -> 159
+Machine 0:  221 -> 238
+
+Job id: 14
+Machine 2:  0 -> 14
+Machine 5:  14 -> 17
+Machine 5:  17 -> 32
+Machine 7:  33 -> 44
+Machine 6:  104 -> 107
+Machine 0:  153 -> 170
+Machine 3:  170 -> 181
+Machine 3:  181 -> 186
+Machine 3:  191 -> 196
+Machine 1:  196 -> 197
+
+The total time is: 238
+
+During HC
+
+Machine 0 was idle for 6 units of time
+Machine 1 was idle for 162 units of time
+Machine 2 was idle for 56 units of time
+Machine 3 was idle for 73 units of time
+Machine 4 was idle for 137 units of time
+Machine 5 was idle for 22 units of time
+Machine 6 was idle for 66 units of time
+Machine 7 was idle for 74 units of time
+
+
+Results for TS:
+Job id: 0
+Machine 3:  8 -> 13
+Machine 3:  13 -> 18
+Machine 6:  34 -> 37
+Machine 6:  52 -> 54
+Machine 5:  54 -> 57
+Machine 4:  59 -> 61
+Machine 4:  61 -> 63
+Machine 0:  102 -> 119
+Machine 2:  119 -> 133
+Machine 5:  187 -> 189
+
+Job id: 1
+Machine 6:  28 -> 31
+Machine 0:  34 -> 51
+Machine 1:  51 -> 52
+Machine 1:  52 -> 62
+Machine 2:  62 -> 75
+Machine 6:  88 -> 101
+Machine 3:  107 -> 112
+Machine 6:  133 -> 135
+Machine 7:  152 -> 155
+Machine 7:  176 -> 195
+
+Job id: 2
+Machine 2:  30 -> 33
+Machine 6:  37 -> 39
+Machine 3:  41 -> 46
+Machine 4:  51 -> 57
+Machine 7:  57 -> 60
+Machine 5:  83 -> 85
+Machine 3:  86 -> 97
+Machine 4:  97 -> 99
+Machine 0:  153 -> 170
+Machine 1:  198 -> 199
+
+Job id: 3
+Machine 3:  18 -> 23
+Machine 4:  23 -> 28
+Machine 3:  64 -> 75
+Machine 7:  125 -> 128
+Machine 5:  128 -> 143
+Machine 6:  143 -> 145
+Machine 4:  145 -> 147
+Machine 6:  147 -> 150
+Machine 0:  170 -> 187
+Machine 4:  187 -> 193
+
+Job id: 4
+Machine 6:  0 -> 13
+Machine 5:  13 -> 15
+Machine 4:  16 -> 18
+Machine 7:  25 -> 36
+Machine 1:  87 -> 105
+Machine 1:  105 -> 106
+Machine 3:  123 -> 128
+Machine 5:  163 -> 166
+Machine 2:  173 -> 176
+Machine 1:  187 -> 197
+
+Job id: 5
+Machine 1:  10 -> 11
+Machine 5:  18 -> 33
+Machine 3:  46 -> 51
+Machine 5:  57 -> 68
+Machine 5:  100 -> 118
+Machine 7:  147 -> 152
+Machine 3:  155 -> 166
+Machine 6:  181 -> 196
+Machine 5:  196 -> 199
+Machine 4:  199 -> 204
+
+Job id: 6
+Machine 1:  0 -> 10
+Machine 7:  22 -> 25
+Machine 1:  42 -> 43
+Machine 0:  68 -> 85
+Machine 5:  85 -> 100
+Machine 4:  100 -> 107
+Machine 4:  113 -> 115
+Machine 2:  133 -> 146
+Machine 3:  166 -> 171
+Machine 5:  199 -> 201
+
+Job id: 7
+Machine 6:  13 -> 28
+Machine 0:  85 -> 102
+Machine 3:  102 -> 107
+Machine 6:  107 -> 120
+Machine 7:  120 -> 125
+Machine 3:  128 -> 139
+Machine 3:  139 -> 150
+Machine 1:  154 -> 155
+Machine 2:  155 -> 173
+Machine 2:  176 -> 179
+
+Job id: 8
+Machine 0:  0 -> 17
+Machine 7:  17 -> 22
+Machine 6:  31 -> 34
+Machine 5:  34 -> 36
+Machine 6:  39 -> 52
+Machine 7:  89 -> 92
+Machine 4:  115 -> 117
+Machine 1:  117 -> 118
+Machine 5:  143 -> 161
+Machine 6:  166 -> 181
+
+Job id: 9
+Machine 0:  17 -> 34
+Machine 5:  36 -> 51
+Machine 4:  57 -> 59
+Machine 3:  75 -> 86
+Machine 7:  86 -> 89
+Machine 3:  118 -> 123
+Machine 4:  135 -> 141
+Machine 5:  161 -> 163
+Machine 6:  163 -> 166
+Machine 2:  179 -> 193
+
+Job id: 10
+Machine 3:  23 -> 36
+Machine 5:  51 -> 53
+Machine 6:  54 -> 57
+Machine 2:  75 -> 93
+Machine 4:  117 -> 123
+Machine 0:  136 -> 153
+Machine 4:  153 -> 158
+Machine 7:  158 -> 176
+Machine 1:  176 -> 186
+Machine 3:  192 -> 203
+
+Job id: 11
+Machine 7:  0 -> 3
+Machine 3:  3 -> 8
+Machine 2:  14 -> 30
+Machine 0:  51 -> 68
+Machine 1:  68 -> 86
+Machine 7:  128 -> 147
+Machine 4:  147 -> 149
+Machine 4:  158 -> 163
+Machine 4:  163 -> 182
+Machine 1:  186 -> 187
+
+Job id: 12
+Machine 2:  0 -> 14
+Machine 4:  14 -> 16
+Machine 3:  36 -> 41
+Machine 1:  41 -> 42
+Machine 5:  68 -> 83
+Machine 6:  85 -> 88
+Machine 3:  150 -> 155
+Machine 5:  166 -> 184
+Machine 5:  184 -> 187
+Machine 7:  195 -> 198
+
+Job id: 13
+Machine 2:  33 -> 49
+Machine 4:  49 -> 51
+Machine 3:  51 -> 64
+Machine 1:  86 -> 87
+Machine 4:  107 -> 113
+Machine 3:  113 -> 118
+Machine 6:  120 -> 133
+Machine 4:  133 -> 135
+Machine 3:  171 -> 182
+Machine 0:  187 -> 204
+
+Job id: 14
+Machine 7:  3 -> 8
+Machine 5:  15 -> 18
+Machine 6:  57 -> 70
+Machine 6:  70 -> 85
+Machine 6:  101 -> 104
+Machine 0:  119 -> 136
+Machine 1:  136 -> 154
+Machine 3:  182 -> 187
+Machine 3:  187 -> 192
+Machine 1:  197 -> 198
+
+The total time is: 204
+
+During TS
+
+Machine 0 was idle for 0 units of time
+Machine 1 was idle for 99 units of time
+Machine 2 was idle for 59 units of time
+Machine 3 was idle for 10 units of time
+Machine 4 was idle for 104 units of time
+Machine 5 was idle for 35 units of time
+Machine 6 was idle for 34 units of time
+Machine 7 was idle for 93 units of time
+
+
+Results for GA:
+Job id: 0
+Machine 7:  0 -> 11
+Machine 3:  45 -> 50
+Machine 2:  50 -> 66
+Machine 6:  100 -> 102
+Machine 5:  106 -> 109
+Machine 3:  109 -> 114
+Machine 4:  149 -> 151
+Machine 0:  228 -> 245
+Machine 7:  252 -> 257
+Machine 6:  257 -> 272
+
+Job id: 1
+Machine 2:  66 -> 82
+Machine 0:  99 -> 116
+Machine 1:  116 -> 117
+Machine 0:  137 -> 149
+Machine 3:  184 -> 195
+Machine 6:  195 -> 208
+Machine 7:  223 -> 234
+Machine 2:  234 -> 253
+Machine 5:  253 -> 266
+Machine 7:  266 -> 285
+
+Job id: 2
+Machine 4:  0 -> 5
+Machine 4:  93 -> 100
+Machine 2:  100 -> 118
+Machine 5:  154 -> 157
+Machine 5:  157 -> 170
+Machine 7:  186 -> 205
+Machine 1:  205 -> 223
+Machine 3:  228 -> 233
+Machine 0:  245 -> 262
+Machine 1:  262 -> 263
+
+Job id: 3
+Machine 2:  0 -> 18
+Machine 4:  69 -> 74
+Machine 1:  117 -> 135
+Machine 5:  135 -> 148
+Machine 6:  153 -> 166
+Machine 1:  177 -> 178
+Machine 4:  178 -> 180
+Machine 5:  200 -> 211
+Machine 0:  211 -> 228
+Machine 4:  228 -> 234
+
+Job id: 4
+Machine 5:  2 -> 17
+Machine 5:  17 -> 19
+Machine 4:  67 -> 69
+Machine 4:  74 -> 93
+Machine 2:  118 -> 131
+Machine 2:  131 -> 150
+Machine 7:  150 -> 168
+Machine 4:  196 -> 202
+Machine 4:  211 -> 216
+Machine 4:  216 -> 226
+
+Job id: 5
+Machine 1:  0 -> 1
+Machine 6:  3 -> 16
+Machine 3:  100 -> 105
+Machine 7:  105 -> 123
+Machine 3:  159 -> 170
+Machine 2:  171 -> 185
+Machine 5:  187 -> 200
+Machine 4:  234 -> 253
+Machine 4:  253 -> 259
+Machine 4:  259 -> 264
+
+Job id: 6
+Machine 7:  11 -> 16
+Machine 5:  19 -> 32
+Machine 3:  32 -> 45
+Machine 0:  65 -> 82
+Machine 6:  104 -> 117
+Machine 1:  135 -> 136
+Machine 4:  176 -> 178
+Machine 2:  185 -> 198
+Machine 2:  198 -> 216
+Machine 6:  216 -> 231
+
+Job id: 7
+Machine 5:  0 -> 2
+Machine 0:  2 -> 19
+Machine 7:  19 -> 30
+Machine 5:  65 -> 80
+Machine 0:  125 -> 137
+Machine 0:  149 -> 156
+Machine 0:  163 -> 172
+Machine 1:  178 -> 179
+Machine 3:  179 -> 184
+Machine 4:  202 -> 207
+
+Job id: 8
+Machine 0:  31 -> 48
+Machine 7:  48 -> 53
+Machine 7:  53 -> 71
+Machine 6:  85 -> 100
+Machine 6:  140 -> 153
+Machine 0:  156 -> 163
+Machine 4:  174 -> 176
+Machine 1:  176 -> 177
+Machine 1:  223 -> 241
+Machine 3:  268 -> 273
+
+Job id: 9
+Machine 0:  48 -> 65
+Machine 5:  80 -> 95
+Machine 3:  95 -> 100
+Machine 5:  109 -> 127
+Machine 3:  127 -> 138
+Machine 3:  138 -> 143
+Machine 5:  148 -> 151
+Machine 5:  170 -> 172
+Machine 6:  179 -> 182
+Machine 1:  251 -> 261
+
+Job id: 10
+Machine 3:  0 -> 13
+Machine 7:  71 -> 90
+Machine 5:  95 -> 106
+Machine 2:  150 -> 168
+Machine 4:  168 -> 174
+Machine 0:  174 -> 191
+Machine 4:  191 -> 196
+Machine 4:  207 -> 209
+Machine 1:  241 -> 251
+Machine 3:  257 -> 268
+
+Job id: 11
+Machine 5:  52 -> 65
+Machine 4:  65 -> 67
+Machine 6:  67 -> 70
+Machine 0:  82 -> 99
+Machine 0:  116 -> 125
+Machine 6:  125 -> 140
+Machine 4:  140 -> 142
+Machine 2:  168 -> 171
+Machine 6:  231 -> 246
+Machine 3:  273 -> 286
+
+Job id: 12
+Machine 2:  82 -> 96
+Machine 4:  100 -> 102
+Machine 3:  114 -> 119
+Machine 4:  142 -> 149
+Machine 6:  166 -> 179
+Machine 7:  205 -> 223
+Machine 3:  223 -> 228
+Machine 2:  253 -> 266
+Machine 4:  266 -> 272
+Machine 0:  279 -> 286
+
+Job id: 13
+Machine 6:  0 -> 3
+Machine 4:  37 -> 39
+Machine 3:  50 -> 63
+Machine 6:  102 -> 104
+Machine 5:  151 -> 154
+Machine 3:  154 -> 159
+Machine 5:  172 -> 187
+Machine 4:  209 -> 211
+Machine 3:  233 -> 244
+Machine 0:  262 -> 279
+
+Job id: 14
+Machine 0:  19 -> 31
+Machine 4:  31 -> 37
+Machine 5:  37 -> 52
+Machine 6:  70 -> 85
+Machine 7:  168 -> 186
+Machine 0:  191 -> 208
+Machine 5:  211 -> 229
+Machine 7:  234 -> 252
+Machine 3:  252 -> 257
+Machine 6:  272 -> 274
+
+The total time is: 286
+
+During GA
+
+Machine 0 was idle for 7 units of time
+Machine 1 was idle for 205 units of time
+Machine 2 was idle for 74 units of time
+Machine 3 was idle for 119 units of time
+Machine 4 was idle for 136 units of time
+Machine 5 was idle for 57 units of time
+Machine 6 was idle for 103 units of time
+Machine 7 was idle for 73 units of time
+
+
+Results for ILS:
+Job id: 0
+Machine 3:  44 -> 49
+Machine 3:  69 -> 74
+Machine 6:  101 -> 104
+Machine 1:  104 -> 105
+Machine 5:  105 -> 108
+Machine 4:  108 -> 110
+Machine 4:  112 -> 114
+Machine 0:  136 -> 153
+Machine 7:  172 -> 177
+Machine 5:  207 -> 209
+
+Job id: 1
+Machine 6:  0 -> 3
+Machine 0:  34 -> 51
+Machine 1:  51 -> 52
+Machine 7:  52 -> 57
+Machine 3:  113 -> 124
+Machine 6:  130 -> 143
+Machine 3:  172 -> 177
+Machine 1:  184 -> 185
+Machine 7:  185 -> 188
+Machine 5:  209 -> 211
+
+Job id: 2
+Machine 2:  8 -> 11
+Machine 1:  16 -> 17
+Machine 3:  54 -> 59
+Machine 5:  59 -> 62
+Machine 7:  62 -> 65
+Machine 5:  108 -> 110
+Machine 1:  123 -> 141
+Machine 4:  144 -> 146
+Machine 0:  153 -> 170
+Machine 1:  185 -> 186
+
+Job id: 3
+Machine 3:  0 -> 5
+Machine 2:  5 -> 8
+Machine 2:  11 -> 24
+Machine 7:  39 -> 42
+Machine 6:  104 -> 117
+Machine 1:  141 -> 142
+Machine 4:  142 -> 144
+Machine 6:  146 -> 149
+Machine 0:  187 -> 204
+Machine 5:  204 -> 207
+
+Job id: 4
+Machine 6:  37 -> 50
+Machine 5:  99 -> 101
+Machine 4:  101 -> 103
+Machine 3:  124 -> 129
+Machine 5:  146 -> 164
+Machine 1:  164 -> 165
+Machine 4:  167 -> 169
+Machine 5:  184 -> 187
+Machine 2:  187 -> 190
+Machine 7:  190 -> 195
+
+Job id: 5
+Machine 1:  0 -> 1
+Machine 6:  21 -> 34
+Machine 3:  34 -> 39
+Machine 6:  85 -> 88
+Machine 5:  110 -> 128
+Machine 7:  128 -> 133
+Machine 7:  144 -> 147
+Machine 3:  167 -> 172
+Machine 5:  192 -> 195
+Machine 2:  195 -> 198
+
+Job id: 6
+Machine 7:  5 -> 10
+Machine 7:  10 -> 13
+Machine 1:  13 -> 14
+Machine 0:  51 -> 68
+Machine 6:  149 -> 162
+Machine 1:  162 -> 163
+Machine 4:  163 -> 165
+Machine 5:  166 -> 184
+Machine 3:  189 -> 194
+Machine 5:  211 -> 213
+
+Job id: 7
+Machine 5:  0 -> 2
+Machine 0:  68 -> 85
+Machine 3:  85 -> 90
+Machine 6:  117 -> 130
+Machine 7:  133 -> 138
+Machine 7:  141 -> 144
+Machine 2:  149 -> 162
+Machine 1:  183 -> 184
+Machine 3:  184 -> 189
+Machine 2:  198 -> 201
+
+Job id: 8
+Machine 0:  17 -> 34
+Machine 7:  34 -> 39
+Machine 6:  79 -> 82
+Machine 5:  82 -> 84
+Machine 5:  84 -> 99
+Machine 7:  99 -> 102
+Machine 4:  146 -> 148
+Machine 1:  163 -> 164
+Machine 1:  165 -> 183
+Machine 3:  204 -> 209
+
+Job id: 9
+Machine 0:  0 -> 17
+Machine 6:  50 -> 63
+Machine 4:  63 -> 65
+Machine 1:  105 -> 123
+Machine 7:  138 -> 141
+Machine 3:  151 -> 156
+Machine 5:  187 -> 190
+Machine 5:  190 -> 192
+Machine 6:  192 -> 195
+Machine 7:  195 -> 200
+
+Job id: 10
+Machine 1:  14 -> 15
+Machine 5:  15 -> 17
+Machine 6:  34 -> 37
+Machine 3:  49 -> 54
+Machine 5:  54 -> 57
+Machine 0:  102 -> 119
+Machine 2:  119 -> 122
+Machine 4:  165 -> 167
+Machine 7:  167 -> 172
+Machine 0:  204 -> 213
+
+Job id: 11
+Machine 7:  13 -> 16
+Machine 4:  16 -> 18
+Machine 6:  63 -> 66
+Machine 0:  85 -> 102
+Machine 3:  102 -> 113
+Machine 5:  164 -> 166
+Machine 4:  169 -> 171
+Machine 2:  171 -> 174
+Machine 3:  194 -> 199
+Machine 1:  199 -> 200
+
+Job id: 12
+Machine 7:  16 -> 21
+Machine 4:  21 -> 23
+Machine 3:  59 -> 64
+Machine 1:  64 -> 65
+Machine 6:  88 -> 101
+Machine 6:  143 -> 146
+Machine 3:  146 -> 151
+Machine 3:  156 -> 167
+Machine 5:  195 -> 198
+Machine 7:  200 -> 203
+
+Job id: 13
+Machine 6:  3 -> 6
+Machine 4:  6 -> 8
+Machine 1:  8 -> 9
+Machine 1:  15 -> 16
+Machine 5:  17 -> 20
+Machine 3:  39 -> 44
+Machine 6:  66 -> 79
+Machine 4:  110 -> 112
+Machine 5:  128 -> 146
+Machine 0:  170 -> 187
+
+Job id: 14
+Machine 7:  0 -> 5
+Machine 5:  5 -> 8
+Machine 6:  8 -> 21
+Machine 3:  64 -> 69
+Machine 6:  82 -> 85
+Machine 0:  119 -> 136
+Machine 2:  136 -> 149
+Machine 4:  171 -> 173
+Machine 3:  199 -> 204
+Machine 1:  204 -> 205
+
+The total time is: 213
+
+During ILS
+
+Machine 0 was idle for 0 units of time
+Machine 1 was idle for 141 units of time
+Machine 2 was idle for 153 units of time
+Machine 3 was idle for 80 units of time
+Machine 4 was idle for 181 units of time
+Machine 5 was idle for 76 units of time
+Machine 6 was idle for 50 units of time
+Machine 7 was idle for 128 units of time
+
