@@ -15,8 +15,8 @@ public class PythonServiceController : ControllerBase
         _env = env;
     }
 
-    // POST endpoint to handle file upload and script execution
-    [HttpPost("start")]
+    // PUT endpoint to handle file upload and script execution
+    [HttpPut("start")]
     public async Task<IActionResult> StartProcess(IFormFile file)
     {
         try
@@ -37,7 +37,7 @@ public class PythonServiceController : ControllerBase
             }
 
             // Define the Python script path
-            string scriptPath = Path.Combine(_env.ContentRootPath, "pythonService", "main2.py");
+            string scriptPath = Path.Combine(_env.ContentRootPath, "pythonService", "main_schedule.py");
 
 
             if (!System.IO.File.Exists(scriptPath))
@@ -108,8 +108,8 @@ public class PythonServiceController : ControllerBase
         }
     }
 
-    // POST endpoint to save the updated configuration
-    [HttpPost("saveConfig")]
+    // PUT endpoint to save the updated configuration
+    [HttpPut("saveConfig")]
     public async Task<IActionResult> SaveConfig([FromBody] JsonElement jsonConfig)
     {
         try
@@ -153,6 +153,67 @@ public class PythonServiceController : ControllerBase
         {
             Console.WriteLine($"Error serving schedule: {ex.Message}");
             return StatusCode(500, "An error occurred while retrieving the schedule");
+        }
+    }
+
+    // Get endpoint for the schedule algorithms
+    [HttpGet("getScheduleAlgorithms")]
+    public async Task<IActionResult> GetScheduleAlgorithms()
+    {
+        try
+        {
+            string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "schedule_algorithms.txt");
+
+            // Check if the file exists
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound("Schedule algorithms file not found");
+            }
+            string content = await System.IO.File.ReadAllTextAsync(filePath);
+
+            // Split the text into strings
+            string[] algorithms = content.Split([' ', '\r', '\n', '\t'],
+            StringSplitOptions.RemoveEmptyEntries); // Remove empty strings from the array if there are any
+
+            return Ok(algorithms);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error serving schedule algorithms file: {ex.Message}");
+            return StatusCode(500, "An error occurred while retrieving the schedule algorithms");
+        }
+    }
+
+    // PUT request to update the schedule algorithms(algorithm names)
+    [HttpPut("saveScheduleAlgorithms")]
+    public async Task<IActionResult> SaveScheduleAlgorithms([FromBody] List<string> algorithms)
+    {
+        try
+        {
+            // Only validate that algorithms is not null
+            if (algorithms == null)
+            {
+                return BadRequest("Algorithm list cannot be null");
+            }
+
+            string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "schedule_algorithms.txt");
+
+            // Check if the file exists
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound("Schedule algorithms file not found");
+            }
+
+            // If the list is empty, this will produce an empty string
+            string algorithmContent = string.Join(" ", algorithms);
+            await System.IO.File.WriteAllTextAsync(filePath, algorithmContent);
+
+            return Ok("The algorithm list was succesfully updated");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error saving schedule algorithms file: {ex.Message}");
+            return StatusCode(500, "An error occurred while saving the schedule algorithms");
         }
     }
 }
