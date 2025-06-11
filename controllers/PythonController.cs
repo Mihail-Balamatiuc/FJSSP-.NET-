@@ -375,4 +375,33 @@ public class PythonServiceController : ControllerBase
             return StatusCode(500, "An error occurred while getting the image");
         }
     }
+
+    // PUT endpoint to save compare settings
+    [HttpPut("saveCompareSettings")]
+    public async Task<IActionResult> SaveCompareSettings([FromBody] List<int> numbers)
+    {
+        try
+        {
+            if (numbers == null)
+            {
+                return BadRequest("Number list cannot be null");
+            }
+            
+            // Combine the numbers into a string
+            string numberString = $"{numbers[0]} {numbers[1]}";
+            
+            // Define the file path
+            string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "compare_settings.txt");
+            
+            // Write the string to the file
+            await System.IO.File.WriteAllTextAsync(filePath, numberString);
+            
+            return Ok("Compare settings succesfully applied");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error saving number pair: {ex.Message}");
+            return StatusCode(500, "An error occurred while saving the number pair");
+        }
+    }
 }

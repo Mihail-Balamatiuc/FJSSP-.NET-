@@ -128,6 +128,14 @@ with open('pythonService/compare_algorithms.txt', 'r') as file:
     for line in file:
         heuristics = line.split()
 
+compare_settings: List[str] = []
+with open('pythonService/compare_settings.txt', 'r') as file:
+    #read by lines
+    for line in file:
+        compare_settings = line.split()
+
+nrRuns: int = int(compare_settings[0])
+optimalValue: int = int(compare_settings[1])
 
 for heuristic in heuristics:
-    save_chart_results(heuristic, 5, 40, scheduler, heuristic_names)
+    save_chart_results(heuristic, nrRuns, optimalValue, scheduler, heuristic_names)
