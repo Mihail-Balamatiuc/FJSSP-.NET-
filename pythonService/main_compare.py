@@ -19,7 +19,7 @@ First line: <number of jobs> <number of machines>
 Then one line per job: <number of operations> and then, for each operation, <number of machines for this operation> and for each machine, a pair <machine> <processing time>.
 Machine index starts at 0.
 """
-with open('pythonService/dataset_github.txt', 'r') as file:
+with open('pythonService/dataset_github_compare.txt', 'r') as file:
     #read by lines
     first = True
     for line in file:
@@ -56,7 +56,7 @@ with open('pythonService/dataset_github.txt', 'r') as file:
 
 ## Here is the read function for my format ##
 
-# with open('dataset2.txt', 'r') as file:
+# with open('pythonService/dataset2.txt', 'r') as file:
 #     #read by lines
 #     first = True
 #     for line in file:
@@ -130,4 +130,4 @@ with open('pythonService/compare_algorithms.txt', 'r') as file:
 
 
 for heuristic in heuristics:
-    save_chart_results(heuristic, 5, 40, scheduler, heuristic_names)
+    save_chart_results(heuristic, 5, 60, scheduler, heuristic_names)

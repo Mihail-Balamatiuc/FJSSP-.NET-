@@ -27,10 +27,9 @@ public class PythonServiceController : ControllerBase
                 return BadRequest("No file uploaded");
             }
 
-            // Define the fixed file path (input.txt) in the pythonService folder
             string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "dataset_github.txt");
 
-            // Overwrite the existing input.txt with the uploaded file's content, but doesn't replace the file so it's name stays the same
+            // Overwrite the existing with the uploaded file's content, but doesn't replace the file so it's name stays the same
             using (var stream = new FileStream(filePath, FileMode.Create))
             {
                 await file.CopyToAsync(stream); // Copy uploaded file to dataset_github.txt
@@ -77,6 +76,73 @@ public class PythonServiceController : ControllerBase
             // Writes the output in the needed file
             string outputPath = Path.Combine(_env.ContentRootPath, "pythonService", "scriptOutput.txt");
             await System.IO.File.WriteAllTextAsync(outputPath, output);
+
+            return Ok(output);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, $"Exception: {ex.Message}");
+        }
+    }
+
+    // PUT endpoint to handle file upload and script execution
+    [HttpPut("compare")]
+    public async Task<IActionResult> Compare(IFormFile file)
+    {
+        try
+        {
+            // Check if a file was uploaded
+            if (file == null || file.Length == 0)
+            {
+                return BadRequest("No file uploaded");
+            }
+
+            string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "dataset_github_compare.txt");
+
+            // Overwrite the existing input with the uploaded file's content, but doesn't replace the file so it's name stays the same
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+
+            // Define the Python script path
+            string scriptPath = Path.Combine(_env.ContentRootPath, "pythonService", "main_compare.py");
+
+
+            if (!System.IO.File.Exists(scriptPath))
+            {
+                return StatusCode(500, $"Script not found at: {scriptPath}");
+            }
+
+            // Configure the process to run the Python script
+            var process = new Process
+            {
+                StartInfo = new ProcessStartInfo
+                {
+                    FileName = "python", // Assumes 'python' is in your system PATH
+                    // Here we add the <"> symbol at the end and beggining of the path to handle path spaces.
+                    // ex: <C:\My Things> has spaces and will not be accesed correctly, so we need to make <"C:\My Things"> and now it's taken
+                    // like a whole string, it's a common practice when working with paths
+                    Arguments = "\"" + scriptPath + "\"",
+                    RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                    UseShellExecute = false,
+                    CreateNoWindow = true
+                }
+            };
+
+            // Start the Python script and read its output/errors
+            process.Start();
+            string output = await process.StandardOutput.ReadToEndAsync();
+            string error = await process.StandardError.ReadToEndAsync();
+            // Waits for the script to run, for long running scripts make it async
+            await process.WaitForExitAsync();
+
+            // Check if the script didn't fail
+            if (process.ExitCode != 0)
+            {
+                return StatusCode(500, $"Error: {error}");
+            }
 
             return Ok(output);
         }
@@ -208,12 +274,73 @@ public class PythonServiceController : ControllerBase
             string algorithmContent = string.Join(" ", algorithms);
             await System.IO.File.WriteAllTextAsync(filePath, algorithmContent);
 
-            return Ok("The algorithm list was succesfully updated");
+            return Ok("The schedule algorithm list was succesfully updated");
         }
         catch (Exception ex)
         {
             Console.WriteLine($"Error saving schedule algorithms file: {ex.Message}");
             return StatusCode(500, "An error occurred while saving the schedule algorithms");
+        }
+    }
+
+    // Get endpoint for comparing algorithms
+    [HttpGet("getCompareAlgorithms")]
+    public async Task<IActionResult> GetCompareAlgorithms()
+    {
+        try
+        {
+            string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "compare_algorithms.txt");
+
+            // Check if the file exists
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound("Compare algorithms file not found");
+            }
+            string content = await System.IO.File.ReadAllTextAsync(filePath);
+
+            // Split the text into strings
+            string[] algorithms = content.Split([' ', '\r', '\n', '\t'],
+            StringSplitOptions.RemoveEmptyEntries); // Remove empty strings from the array if there are any
+
+            return Ok(algorithms);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error serving compare algorithms file: {ex.Message}");
+            return StatusCode(500, "An error occurred while retrieving the compare algorithms");
+        }
+    }
+
+    // PUT request to update the schedule algorithms(algorithm names)
+    [HttpPut("saveCompareAlgorithms")]
+    public async Task<IActionResult> SaveCompareAlgorithms([FromBody] List<string> algorithms)
+    {
+        try
+        {
+            // Only validate that algorithms is not null
+            if (algorithms == null)
+            {
+                return BadRequest("Algorithm list cannot be null");
+            }
+
+            string filePath = Path.Combine(_env.ContentRootPath, "pythonService", "compare_algorithms.txt");
+
+            // Check if the file exists
+            if (!System.IO.File.Exists(filePath))
+            {
+                return NotFound("Compare algorithms file not found");
+            }
+
+            // If the list is empty, this will produce an empty string
+            string algorithmContent = string.Join(" ", algorithms);
+            await System.IO.File.WriteAllTextAsync(filePath, algorithmContent);
+
+            return Ok("The compare algorithm list was succesfully updated");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error saving compare algorithms file: {ex.Message}");
+            return StatusCode(500, "An error occurred while saving the compare algorithms");
         }
     }
 }

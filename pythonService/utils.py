@@ -101,6 +101,6 @@ def save_chart_results(heuristic: str, nr_iterations: int, optimal_result: int, 
     plt.grid(True)
 
     # Save the plot to the results folder
-    plt.savefig(f'results/{heuristic}_makespan.png')
+    plt.savefig(f'pythonService/results/{heuristic}_makespan.png')
     plt.close()
     print(f'Plot with {nr_iterations} iterations for {heuristic_names[heuristic]} saved.')
