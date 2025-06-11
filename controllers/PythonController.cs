@@ -213,6 +213,12 @@ public class PythonServiceController : ControllerBase
             {
                 return NotFound("Schedule file not found");
             }
+
+            // Prevents the browser from caching and esures client always gets latest data
+            Response.Headers.Append("Cache-Control", "no-cache, no-store");
+            Response.Headers.Append("Pragma", "no-cache");
+            Response.Headers.Append("Expires", "0");
+
             return PhysicalFile(filePath, "text/plain", "schedule.txt");
         }
         catch (Exception ex)
@@ -341,6 +347,32 @@ public class PythonServiceController : ControllerBase
         {
             Console.WriteLine($"Error saving compare algorithms file: {ex.Message}");
             return StatusCode(500, "An error occurred while saving the compare algorithms");
+        }
+    }
+
+    // Endpoint for serving performance images
+    [HttpGet("charts/{algorithm}")]
+    public IActionResult GetChart(string algorithm)
+    {
+        try
+        {
+            string imagePath = Path.Combine(_env.ContentRootPath, "pythonService", "results", $"{algorithm}_makespan.png");
+            if (!System.IO.File.Exists(imagePath))
+            {
+                return NotFound($"Image for {algorithm} wasn't found");
+            }
+
+            // Prevents the browser from caching and esures client always gets latest data
+            Response.Headers.Append("Cache-Control", "no-cache, no-store");
+            Response.Headers.Append("Pragma", "no-cache");
+            Response.Headers.Append("Expires", "0");
+
+            return PhysicalFile(imagePath, "image/png");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error getting the image: {ex.Message}");
+            return StatusCode(500, "An error occurred while getting the image");
         }
     }
 }

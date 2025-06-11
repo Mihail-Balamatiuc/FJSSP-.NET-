@@ -130,4 +130,4 @@ with open('pythonService/compare_algorithms.txt', 'r') as file:
 
 
 for heuristic in heuristics:
-    save_chart_results(heuristic, 5, 60, scheduler, heuristic_names)
+    save_chart_results(heuristic, 5, 40, scheduler, heuristic_names)
