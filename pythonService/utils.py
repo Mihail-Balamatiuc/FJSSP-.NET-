@@ -93,8 +93,8 @@ def save_chart_results(heuristic: str, nr_iterations: int, optimal_result: int, 
     # Plotting
     plt.figure(figsize=(10, 6))
     plt.plot(range(1, nr_iterations + 1), makespans, label = f'{heuristic_names[heuristic]}, (Best makespan: {best_makespan})', marker='o')
-    plt.plot(range(1, nr_iterations + 1), optimal_result_plot_line, label = f'Constant {optimal_result}', linestyle='--', color='red')
-    plt.xlabel('Iteration')
+    plt.plot(range(1, nr_iterations + 1), optimal_result_plot_line, label = f'Optimal value {optimal_result}', linestyle='--', color='red')
+    plt.xlabel('Run nr.')
     plt.ylabel('Makespan')
     plt.title(f'Makespan over {nr_iterations} Runs for {heuristic_names[heuristic]}')
     plt.legend()
