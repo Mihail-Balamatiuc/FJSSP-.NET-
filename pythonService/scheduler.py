@@ -265,8 +265,6 @@ class Scheduler:
                             max_iterations: int = config.simulated_annealing.max_iterations,
                             restarts: int = config.simulated_annealing.restarts
                             ) -> Tuple[Tuple[List[int], List[List[int]]], int]:
-                            
-        # Optimizes the schedule using Simulated Annealing
 
         best_solution: Tuple[List[int], List[List[int]]] = self.generate_initial_solution()     # Track the best solution found
         best_makespan: int = self.compute_makespan(*best_solution)                              # Track its makespan
@@ -297,7 +295,6 @@ class Scheduler:
         self.compute_makespan(*best_solution)  # Apply the best solution
         return best_solution, best_makespan    # Return the optimized solution and its makespan
 
-    # Improved Hill Climbing heuristic
     def hill_climbing(self, 
                       improvement_tries: int = config.hill_climbing.improvement_tries,
                       max_iterations: int = config.hill_climbing.max_iterations,
@@ -360,7 +357,7 @@ class Scheduler:
         tabu_list: Deque[Tuple[List[int], List[int]]] = deque(maxlen = tabu_tenure)             # Tabu list with fixed size (will automatically eliminate when exceeded)
 
         for iteration in range(max_iterations):
-            # Generate 10 neighbors
+            # Generate 15 neighbors
             neighbors: List[Tuple[List[int], List[List[int]]]] = [self.generate_neighbor(current_solution) for _ in range(15)]
 
             # Find the best non-tabu neighbor

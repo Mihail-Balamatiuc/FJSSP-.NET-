@@ -154,7 +154,6 @@ public class PythonServiceController : ControllerBase
 
     // GET endpoint to retrieve the current python configuration
     [HttpGet("getConfig")]
-    // We make it synchronous because it's a simple operation
     public async Task<IActionResult> GetConfig()
     {
         try
@@ -190,8 +189,6 @@ public class PythonServiceController : ControllerBase
 
             // Write the rawJson to the file
             string configPath = Path.Combine(_env.ContentRootPath, "pythonService", "config.json");
-
-            // here’s the sync version of writing to the file:
             await System.IO.File.WriteAllTextAsync(configPath, rawJson);
 
             return Ok("Configuration saved successfully.");

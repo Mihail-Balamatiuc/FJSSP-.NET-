@@ -12,7 +12,6 @@ def convert_to_namespace(data):
         # Create a new dictionary where each value is recursively converted
         converted_dict: Dict = {}
         for key, value in data.items():
-            # Recursively convert the value (could be another dict, list, or primitive)
             converted_dict[key] = convert_to_namespace(value)
             
         return SimpleNamespace(**converted_dict)

@@ -34,7 +34,7 @@ class Job:
     def get_next_task_list(self) -> Optional[List[Task]]:
         # Returns the next task to be scheduled, or None if the job is complete
         if self.current_operation_index < len(self.operations):
-            return self.operations[self.current_operation_index] #returns a task_list with machines and durations
+            return self.operations[self.current_operation_index] # returns a task_list with machines and durations
         return None
 
     def complete_operation(self) -> None:
