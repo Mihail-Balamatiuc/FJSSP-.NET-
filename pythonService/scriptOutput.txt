@@ -1,1448 +1,440 @@
 
-Results for HC:
+Results for SA:
 Job id: 0
-Machine 6:  93 -> 107
-Machine 5:  128 -> 149
-Machine 8:  149 -> 162
-Machine 4:  176 -> 187
-Machine 12:  192 -> 203
-Machine 14:  212 -> 247
-Machine 13:  310 -> 330
-Machine 11:  420 -> 437
-Machine 10:  491 -> 509
-Machine 12:  510 -> 521
-Machine 2:  535 -> 558
-Machine 3:  650 -> 663
-Machine 0:  783 -> 798
-Machine 7:  798 -> 809
-Machine 9:  835 -> 870
+Machine 2:  5 -> 9
+Machine 1:  24 -> 25
+Machine 2:  25 -> 29
+Machine 5:  39 -> 44
+Machine 2:  50 -> 51
+Machine 3:  51 -> 54
 
 Job id: 1
-Machine 1:  0 -> 35
-Machine 13:  35 -> 66
-Machine 0:  86 -> 99
-Machine 3:  171 -> 197
-Machine 6:  254 -> 268
-Machine 9:  283 -> 300
-Machine 12:  300 -> 338
-Machine 12:  349 -> 369
-Machine 10:  408 -> 427
-Machine 13:  439 -> 451
-Machine 8:  486 -> 502
-Machine 4:  596 -> 630
-Machine 11:  652 -> 667
-Machine 14:  715 -> 727
-Machine 2:  840 -> 854
+Machine 1:  18 -> 24
+Machine 2:  24 -> 25
+Machine 0:  25 -> 27
+Machine 1:  44 -> 50
+Machine 1:  62 -> 68
 
 Job id: 2
-Machine 6:  12 -> 42
-Machine 4:  106 -> 141
-Machine 2:  141 -> 181
-Machine 10:  218 -> 253
-Machine 6:  300 -> 330
-Machine 14:  330 -> 353
-Machine 8:  353 -> 382
-Machine 13:  386 -> 423
-Machine 7:  431 -> 469
-Machine 3:  487 -> 527
-Machine 9:  527 -> 553
-Machine 7:  553 -> 564
-Machine 1:  567 -> 607
-Machine 11:  720 -> 756
-Machine 4:  756 -> 773
+Machine 1:  0 -> 6
+Machine 5:  22 -> 24
+Machine 5:  31 -> 36
+Machine 2:  42 -> 46
+Machine 0:  58 -> 59
 
 Job id: 3
-Machine 7:  0 -> 40
-Machine 5:  88 -> 106
-Machine 4:  141 -> 153
-Machine 4:  153 -> 176
-Machine 0:  251 -> 274
-Machine 9:  325 -> 339
-Machine 13:  423 -> 439
-Machine 12:  454 -> 468
-Machine 10:  468 -> 491
-Machine 3:  527 -> 539
-Machine 6:  629 -> 645
-Machine 14:  683 -> 715
-Machine 1:  775 -> 815
-Machine 11:  815 -> 840
-Machine 2:  854 -> 883
+Machine 5:  9 -> 14
+Machine 1:  31 -> 37
+Machine 2:  37 -> 38
+Machine 4:  38 -> 41
+Machine 2:  51 -> 55
 
 Job id: 4
-Machine 2:  33 -> 68
-Machine 3:  68 -> 83
-Machine 12:  83 -> 114
-Machine 11:  205 -> 233
-Machine 6:  268 -> 300
-Machine 4:  316 -> 346
-Machine 10:  346 -> 373
-Machine 7:  402 -> 431
-Machine 0:  431 -> 469
-Machine 13:  651 -> 662
-Machine 5:  723 -> 746
-Machine 14:  754 -> 771
-Machine 5:  771 -> 798
-Machine 9:  798 -> 835
-Machine 8:  882 -> 911
+Machine 2:  0 -> 5
+Machine 1:  6 -> 12
+Machine 1:  12 -> 18
+Machine 2:  38 -> 42
+Machine 1:  50 -> 56
+Machine 2:  56 -> 60
 
 Job id: 5
-Machine 5:  0 -> 33
-Machine 3:  83 -> 116
-Machine 6:  133 -> 152
-Machine 12:  152 -> 192
-Machine 10:  199 -> 218
-Machine 0:  218 -> 251
-Machine 13:  265 -> 291
-Machine 2:  291 -> 322
-Machine 11:  322 -> 350
-Machine 7:  564 -> 600
-Machine 4:  630 -> 668
-Machine 1:  708 -> 729
-Machine 14:  729 -> 754
-Machine 9:  754 -> 794
-Machine 8:  794 -> 829
+Machine 5:  20 -> 22
+Machine 0:  22 -> 24
+Machine 5:  25 -> 31
+Machine 1:  38 -> 44
+Machine 5:  50 -> 55
+Machine 0:  55 -> 58
 
 Job id: 6
-Machine 13:  153 -> 178
-Machine 9:  251 -> 283
-Machine 11:  283 -> 316
-Machine 12:  369 -> 387
-Machine 4:  467 -> 499
-Machine 6:  499 -> 527
-Machine 5:  538 -> 553
-Machine 3:  553 -> 588
-Machine 9:  588 -> 602
-Machine 2:  602 -> 636
-Machine 7:  636 -> 659
-Machine 10:  659 -> 691
-Machine 1:  691 -> 708
-Machine 2:  713 -> 739
-Machine 8:  863 -> 882
+Machine 5:  24 -> 25
+Machine 3:  37 -> 39
+Machine 5:  44 -> 50
+Machine 1:  56 -> 62
+Machine 2:  62 -> 63
 
 Job id: 7
-Machine 2:  0 -> 16
-Machine 12:  16 -> 49
-Machine 9:  49 -> 83
-Machine 11:  83 -> 113
-Machine 13:  113 -> 153
-Machine 1:  153 -> 165
-Machine 14:  169 -> 195
-Machine 5:  240 -> 266
-Machine 6:  330 -> 345
-Machine 3:  352 -> 373
-Machine 1:  373 -> 413
-Machine 4:  435 -> 467
-Machine 0:  571 -> 585
-Machine 7:  685 -> 715
-Machine 10:  715 -> 750
+Machine 5:  0 -> 2
+Machine 5:  3 -> 9
+Machine 0:  21 -> 22
+Machine 1:  25 -> 31
+Machine 3:  31 -> 37
 
 Job id: 8
-Machine 2:  16 -> 33
-Machine 10:  33 -> 49
-Machine 14:  49 -> 69
-Machine 6:  69 -> 93
-Machine 6:  107 -> 133
-Machine 3:  197 -> 233
-Machine 12:  233 -> 255
-Machine 0:  296 -> 310
-Machine 13:  375 -> 386
-Machine 9:  386 -> 406
-Machine 7:  483 -> 506
-Machine 7:  600 -> 629
-Machine 11:  629 -> 652
-Machine 4:  668 -> 683
-Machine 5:  683 -> 723
+Machine 5:  2 -> 3
+Machine 0:  3 -> 4
+Machine 2:  13 -> 19
+Machine 0:  19 -> 21
+Machine 2:  46 -> 50
+Machine 3:  54 -> 60
 
 Job id: 9
-Machine 4:  0 -> 27
-Machine 9:  83 -> 120
-Machine 9:  120 -> 160
-Machine 11:  160 -> 174
-Machine 13:  178 -> 203
-Machine 7:  203 -> 233
-Machine 0:  386 -> 420
-Machine 12:  420 -> 431
-Machine 5:  484 -> 499
-Machine 12:  521 -> 553
-Machine 1:  607 -> 643
-Machine 10:  643 -> 655
-Machine 14:  655 -> 683
-Machine 8:  683 -> 714
-Machine 6:  714 -> 737
+Machine 2:  9 -> 13
+Machine 5:  14 -> 20
+Machine 1:  37 -> 38
+Machine 5:  38 -> 39
+Machine 3:  39 -> 45
+Machine 3:  45 -> 47
 
-Job id: 10
-Machine 8:  15 -> 40
-Machine 0:  274 -> 296
-Machine 3:  296 -> 323
-Machine 8:  323 -> 337
-Machine 5:  337 -> 362
-Machine 6:  385 -> 405
-Machine 14:  405 -> 423
-Machine 7:  469 -> 483
-Machine 1:  483 -> 502
-Machine 2:  502 -> 519
-Machine 4:  569 -> 596
-Machine 13:  596 -> 618
-Machine 12:  668 -> 690
-Machine 11:  756 -> 783
-Machine 10:  801 -> 822
+The total time is: 68
 
-Job id: 11
-Machine 14:  0 -> 34
-Machine 10:  49 -> 64
-Machine 0:  64 -> 86
-Machine 3:  116 -> 145
-Machine 13:  231 -> 265
-Machine 6:  345 -> 385
-Machine 7:  385 -> 402
-Machine 2:  402 -> 434
-Machine 12:  434 -> 454
-Machine 5:  499 -> 538
-Machine 4:  538 -> 569
-Machine 11:  569 -> 585
-Machine 1:  643 -> 680
-Machine 2:  680 -> 713
-Machine 9:  870 -> 883
+During SA
 
-Job id: 12
-Machine 6:  0 -> 12
-Machine 12:  49 -> 76
-Machine 4:  76 -> 93
-Machine 2:  93 -> 117
-Machine 8:  162 -> 173
-Machine 5:  182 -> 201
-Machine 14:  201 -> 212
-Machine 3:  256 -> 273
-Machine 9:  300 -> 325
-Machine 1:  325 -> 336
-Machine 11:  585 -> 616
-Machine 13:  618 -> 651
-Machine 7:  715 -> 746
-Machine 10:  750 -> 762
-Machine 0:  827 -> 849
+Machine 0 was idle for 56 units of time
+Machine 1 was idle for 0 units of time
+Machine 2 was idle for 21 units of time
+Machine 3 was idle for 43 units of time
+Machine 4 was idle for 65 units of time
+Machine 5 was idle for 15 units of time
 
-Job id: 13
-Machine 5:  106 -> 128
-Machine 14:  128 -> 143
-Machine 0:  143 -> 159
-Machine 8:  173 -> 205
-Machine 7:  233 -> 253
-Machine 4:  346 -> 368
-Machine 9:  368 -> 379
-Machine 13:  451 -> 470
-Machine 1:  537 -> 567
-Machine 12:  567 -> 600
-Machine 6:  600 -> 629
-Machine 11:  667 -> 685
-Machine 3:  685 -> 719
-Machine 10:  822 -> 854
-Machine 2:  883 -> 901
 
-Job id: 14
-Machine 5:  33 -> 60
-Machine 3:  145 -> 171
-Machine 10:  171 -> 199
-Machine 6:  217 -> 254
-Machine 4:  254 -> 272
-Machine 12:  272 -> 284
-Machine 12:  338 -> 349
-Machine 13:  349 -> 375
-Machine 8:  382 -> 409
-Machine 6:  527 -> 567
-Machine 14:  609 -> 628
-Machine 1:  729 -> 753
-Machine 2:  753 -> 771
-Machine 0:  771 -> 783
-Machine 8:  829 -> 863
+Results for HC:
+Job id: 0
+Machine 0:  0 -> 5
+Machine 4:  5 -> 8
+Machine 5:  15 -> 17
+Machine 5:  17 -> 22
+Machine 2:  41 -> 42
+Machine 2:  42 -> 48
 
-Job id: 15
-Machine 8:  0 -> 15
-Machine 5:  60 -> 88
-Machine 9:  160 -> 185
-Machine 6:  185 -> 217
-Machine 1:  217 -> 230
-Machine 7:  253 -> 291
-Machine 11:  350 -> 361
-Machine 2:  434 -> 468
-Machine 4:  499 -> 524
-Machine 0:  551 -> 571
-Machine 10:  571 -> 603
-Machine 3:  627 -> 650
-Machine 12:  654 -> 668
-Machine 11:  704 -> 720
-Machine 13:  736 -> 756
+Job id: 1
+Machine 1:  24 -> 30
+Machine 2:  31 -> 32
+Machine 0:  32 -> 34
+Machine 3:  34 -> 40
+Machine 0:  42 -> 43
 
-Job id: 16
-Machine 1:  71 -> 86
-Machine 4:  93 -> 106
-Machine 8:  205 -> 242
-Machine 3:  242 -> 256
-Machine 10:  283 -> 305
-Machine 5:  460 -> 484
-Machine 12:  484 -> 510
-Machine 7:  510 -> 532
-Machine 9:  553 -> 587
-Machine 14:  587 -> 609
-Machine 11:  685 -> 704
-Machine 13:  704 -> 736
-Machine 0:  798 -> 827
-Machine 2:  827 -> 840
-Machine 6:  840 -> 875
+Job id: 2
+Machine 1:  0 -> 6
+Machine 2:  6 -> 10
+Machine 5:  29 -> 34
+Machine 2:  37 -> 41
+Machine 0:  41 -> 42
 
-Job id: 17
-Machine 7:  40 -> 76
-Machine 5:  149 -> 182
-Machine 13:  203 -> 231
-Machine 9:  231 -> 251
-Machine 10:  253 -> 283
-Machine 4:  283 -> 316
-Machine 3:  323 -> 352
-Machine 0:  352 -> 386
-Machine 3:  386 -> 408
-Machine 11:  408 -> 420
-Machine 6:  444 -> 474
-Machine 8:  474 -> 486
-Machine 1:  502 -> 537
-Machine 2:  771 -> 784
-Machine 12:  784 -> 819
+Job id: 3
+Machine 0:  9 -> 10
+Machine 1:  12 -> 18
+Machine 2:  18 -> 19
+Machine 4:  19 -> 22
+Machine 5:  44 -> 46
 
-Job id: 18
-Machine 14:  143 -> 169
-Machine 11:  174 -> 205
-Machine 5:  205 -> 240
-Machine 2:  240 -> 278
-Machine 13:  291 -> 310
-Machine 10:  373 -> 408
-Machine 4:  408 -> 435
-Machine 1:  435 -> 464
-Machine 3:  588 -> 627
-Machine 9:  627 -> 640
-Machine 12:  640 -> 654
-Machine 7:  659 -> 685
-Machine 0:  685 -> 702
-Machine 1:  753 -> 775
-Machine 12:  819 -> 834
+Job id: 4
+Machine 4:  0 -> 3
+Machine 0:  5 -> 6
+Machine 1:  6 -> 12
+Machine 0:  12 -> 17
+Machine 3:  17 -> 23
+Machine 5:  23 -> 29
 
-Job id: 19
-Machine 1:  35 -> 71
-Machine 7:  76 -> 110
-Machine 11:  233 -> 266
-Machine 8:  266 -> 283
-Machine 14:  283 -> 321
-Machine 6:  405 -> 444
-Machine 5:  444 -> 460
-Machine 3:  460 -> 487
-Machine 13:  487 -> 516
-Machine 2:  519 -> 535
-Machine 0:  535 -> 551
-Machine 6:  567 -> 586
-Machine 9:  640 -> 680
-Machine 12:  690 -> 725
-Machine 10:  762 -> 801
+Job id: 5
+Machine 2:  14 -> 18
+Machine 0:  18 -> 20
+Machine 2:  27 -> 31
+Machine 1:  31 -> 37
+Machine 0:  43 -> 44
+Machine 3:  46 -> 48
 
-The total time is: 911
+Job id: 6
+Machine 5:  1 -> 2
+Machine 0:  6 -> 9
+Machine 2:  10 -> 14
+Machine 4:  22 -> 23
+Machine 2:  48 -> 49
+
+Job id: 7
+Machine 2:  0 -> 4
+Machine 5:  4 -> 10
+Machine 5:  10 -> 15
+Machine 1:  18 -> 24
+Machine 3:  24 -> 30
+
+Job id: 8
+Machine 5:  0 -> 1
+Machine 4:  8 -> 13
+Machine 3:  13 -> 16
+Machine 0:  34 -> 36
+Machine 5:  38 -> 44
+Machine 1:  44 -> 50
+
+Job id: 9
+Machine 2:  19 -> 23
+Machine 2:  23 -> 27
+Machine 2:  32 -> 37
+Machine 5:  37 -> 38
+Machine 1:  38 -> 44
+Machine 3:  44 -> 46
+
+The total time is: 50
 
 During HC
 
-Machine 0 was idle for 517 units of time
-Machine 1 was idle for 399 units of time
-Machine 2 was idle for 390 units of time
-Machine 3 was idle for 393 units of time
-Machine 4 was idle for 392 units of time
-Machine 5 was idle for 425 units of time
-Machine 6 was idle for 307 units of time
-Machine 7 was idle for 373 units of time
-Machine 8 was idle for 515 units of time
-Machine 9 was idle for 384 units of time
-Machine 10 was idle for 409 units of time
-Machine 11 was idle for 448 units of time
-Machine 12 was idle for 366 units of time
-Machine 13 was idle for 395 units of time
-Machine 14 was idle for 510 units of time
+Machine 0 was idle for 26 units of time
+Machine 1 was idle for 2 units of time
+Machine 2 was idle for 3 units of time
+Machine 3 was idle for 25 units of time
+Machine 4 was idle for 35 units of time
+Machine 5 was idle for 10 units of time
 
 
 Results for TS:
 Job id: 0
-Machine 6:  174 -> 188
-Machine 5:  209 -> 230
-Machine 8:  268 -> 281
-Machine 4:  282 -> 293
-Machine 1:  293 -> 304
-Machine 14:  318 -> 353
-Machine 13:  353 -> 373
-Machine 11:  379 -> 396
-Machine 10:  500 -> 518
-Machine 12:  518 -> 529
-Machine 2:  537 -> 560
-Machine 3:  619 -> 632
-Machine 0:  632 -> 647
-Machine 7:  647 -> 658
-Machine 9:  778 -> 813
+Machine 0:  0 -> 5
+Machine 4:  5 -> 8
+Machine 2:  23 -> 27
+Machine 0:  31 -> 32
+Machine 2:  37 -> 38
+Machine 5:  38 -> 44
 
 Job id: 1
-Machine 1:  51 -> 86
-Machine 13:  86 -> 117
-Machine 0:  131 -> 144
-Machine 3:  225 -> 251
-Machine 6:  396 -> 410
-Machine 9:  410 -> 427
-Machine 12:  427 -> 465
-Machine 12:  465 -> 485
-Machine 10:  518 -> 537
-Machine 13:  546 -> 558
-Machine 8:  602 -> 618
-Machine 4:  632 -> 666
-Machine 4:  666 -> 681
-Machine 14:  731 -> 743
-Machine 2:  743 -> 757
+Machine 1:  6 -> 12
+Machine 2:  12 -> 13
+Machine 0:  13 -> 15
+Machine 3:  15 -> 21
+Machine 0:  22 -> 23
 
 Job id: 2
-Machine 0:  79 -> 109
-Machine 4:  109 -> 144
-Machine 2:  144 -> 184
-Machine 10:  184 -> 219
-Machine 6:  247 -> 277
-Machine 14:  353 -> 376
-Machine 8:  376 -> 405
-Machine 13:  444 -> 481
-Machine 7:  497 -> 535
-Machine 3:  632 -> 672
-Machine 9:  672 -> 698
-Machine 12:  698 -> 709
-Machine 1:  718 -> 758
-Machine 11:  765 -> 801
-Machine 5:  801 -> 818
+Machine 1:  0 -> 6
+Machine 2:  8 -> 12
+Machine 0:  18 -> 19
+Machine 2:  19 -> 23
+Machine 0:  32 -> 33
 
 Job id: 3
-Machine 7:  70 -> 110
-Machine 5:  230 -> 248
-Machine 4:  325 -> 337
-Machine 8:  337 -> 360
-Machine 0:  404 -> 427
-Machine 9:  441 -> 455
-Machine 13:  481 -> 497
-Machine 12:  529 -> 543
-Machine 10:  543 -> 566
-Machine 3:  607 -> 619
-Machine 6:  619 -> 635
-Machine 14:  635 -> 667
-Machine 1:  678 -> 718
-Machine 11:  740 -> 765
-Machine 2:  770 -> 799
+Machine 0:  21 -> 22
+Machine 1:  30 -> 36
+Machine 2:  36 -> 37
+Machine 4:  37 -> 40
+Machine 5:  44 -> 46
 
 Job id: 4
-Machine 2:  0 -> 35
-Machine 3:  93 -> 108
-Machine 12:  114 -> 145
-Machine 11:  151 -> 179
-Machine 6:  364 -> 396
-Machine 4:  411 -> 441
-Machine 10:  441 -> 468
-Machine 7:  468 -> 497
-Machine 0:  497 -> 535
-Machine 13:  535 -> 546
-Machine 5:  552 -> 575
-Machine 14:  575 -> 592
-Machine 5:  592 -> 619
-Machine 9:  632 -> 669
-Machine 8:  700 -> 729
+Machine 4:  0 -> 3
+Machine 5:  5 -> 10
+Machine 1:  12 -> 18
+Machine 0:  23 -> 28
+Machine 1:  36 -> 42
+Machine 2:  42 -> 46
 
 Job id: 5
-Machine 5:  27 -> 60
-Machine 3:  60 -> 93
-Machine 6:  188 -> 207
-Machine 12:  233 -> 273
-Machine 10:  273 -> 292
-Machine 0:  345 -> 378
-Machine 13:  418 -> 444
-Machine 2:  444 -> 475
-Machine 11:  475 -> 503
-Machine 7:  558 -> 594
-Machine 4:  594 -> 632
-Machine 1:  657 -> 678
-Machine 14:  678 -> 703
-Machine 9:  738 -> 778
-Machine 8:  778 -> 813
+Machine 5:  0 -> 2
+Machine 0:  5 -> 7
+Machine 2:  13 -> 17
+Machine 1:  24 -> 30
+Machine 0:  30 -> 31
+Machine 3:  44 -> 46
 
 Job id: 6
-Machine 13:  0 -> 25
-Machine 0:  25 -> 57
-Machine 11:  209 -> 242
-Machine 12:  273 -> 291
-Machine 4:  293 -> 325
-Machine 6:  336 -> 364
-Machine 5:  364 -> 379
-Machine 3:  379 -> 414
-Machine 9:  427 -> 441
-Machine 2:  475 -> 509
-Machine 7:  535 -> 558
-Machine 10:  566 -> 598
-Machine 1:  604 -> 621
-Machine 2:  621 -> 647
-Machine 8:  647 -> 666
+Machine 5:  10 -> 11
+Machine 0:  15 -> 18
+Machine 2:  27 -> 31
+Machine 4:  31 -> 32
+Machine 2:  38 -> 39
 
 Job id: 7
-Machine 2:  52 -> 68
-Machine 12:  81 -> 114
-Machine 9:  129 -> 163
-Machine 11:  179 -> 209
-Machine 13:  209 -> 249
-Machine 1:  249 -> 261
-Machine 14:  274 -> 300
-Machine 5:  395 -> 421
-Machine 6:  421 -> 436
-Machine 3:  436 -> 457
-Machine 1:  457 -> 497
-Machine 4:  553 -> 585
-Machine 0:  585 -> 599
-Machine 7:  715 -> 745
-Machine 10:  745 -> 780
+Machine 5:  2 -> 4
+Machine 2:  4 -> 8
+Machine 5:  13 -> 18
+Machine 1:  18 -> 24
+Machine 3:  24 -> 30
 
 Job id: 8
-Machine 2:  35 -> 52
-Machine 13:  52 -> 68
-Machine 14:  68 -> 88
-Machine 6:  118 -> 142
-Machine 8:  149 -> 175
-Machine 3:  175 -> 211
-Machine 12:  211 -> 233
-Machine 0:  233 -> 247
-Machine 13:  274 -> 285
-Machine 9:  285 -> 305
-Machine 7:  384 -> 407
-Machine 7:  594 -> 623
-Machine 11:  701 -> 724
-Machine 4:  724 -> 739
-Machine 5:  739 -> 779
+Machine 5:  4 -> 5
+Machine 0:  7 -> 8
+Machine 3:  8 -> 11
+Machine 0:  19 -> 21
+Machine 2:  31 -> 35
+Machine 3:  38 -> 44
 
 Job id: 9
-Machine 4:  0 -> 27
-Machine 9:  27 -> 64
-Machine 9:  64 -> 104
-Machine 11:  104 -> 118
-Machine 13:  249 -> 274
-Machine 7:  354 -> 384
-Machine 0:  427 -> 461
-Machine 2:  526 -> 537
-Machine 5:  537 -> 552
-Machine 12:  552 -> 584
-Machine 1:  621 -> 657
-Machine 10:  657 -> 669
-Machine 14:  703 -> 731
-Machine 8:  731 -> 762
-Machine 6:  762 -> 785
+Machine 5:  11 -> 13
+Machine 5:  18 -> 24
+Machine 4:  24 -> 27
+Machine 5:  27 -> 28
+Machine 3:  30 -> 36
+Machine 3:  36 -> 38
 
-Job id: 10
-Machine 8:  15 -> 40
-Machine 0:  57 -> 79
-Machine 3:  108 -> 135
-Machine 8:  135 -> 149
-Machine 5:  149 -> 174
-Machine 6:  277 -> 297
-Machine 14:  300 -> 318
-Machine 7:  318 -> 332
-Machine 1:  332 -> 351
-Machine 2:  509 -> 526
-Machine 4:  526 -> 553
-Machine 13:  590 -> 612
-Machine 12:  652 -> 674
-Machine 11:  674 -> 701
-Machine 10:  701 -> 722
-
-Job id: 11
-Machine 14:  26 -> 60
-Machine 10:  60 -> 75
-Machine 0:  109 -> 131
-Machine 3:  135 -> 164
-Machine 13:  164 -> 198
-Machine 6:  207 -> 247
-Machine 7:  288 -> 305
-Machine 2:  305 -> 337
-Machine 12:  337 -> 357
-Machine 5:  421 -> 460
-Machine 4:  460 -> 491
-Machine 11:  503 -> 519
-Machine 1:  532 -> 569
-Machine 8:  569 -> 602
-Machine 9:  619 -> 632
-
-Job id: 12
-Machine 6:  0 -> 12
-Machine 12:  12 -> 39
-Machine 4:  144 -> 161
-Machine 2:  184 -> 208
-Machine 8:  208 -> 219
-Machine 5:  248 -> 267
-Machine 14:  376 -> 387
-Machine 3:  414 -> 431
-Machine 9:  455 -> 480
-Machine 1:  497 -> 508
-Machine 11:  573 -> 604
-Machine 13:  612 -> 645
-Machine 7:  658 -> 689
-Machine 10:  689 -> 701
-Machine 0:  701 -> 723
-
-Job id: 13
-Machine 5:  121 -> 143
-Machine 14:  143 -> 158
-Machine 0:  158 -> 174
-Machine 8:  236 -> 268
-Machine 7:  268 -> 288
-Machine 4:  337 -> 359
-Machine 9:  359 -> 370
-Machine 13:  399 -> 418
-Machine 1:  418 -> 448
-Machine 12:  485 -> 518
-Machine 6:  518 -> 547
-Machine 11:  555 -> 573
-Machine 3:  573 -> 607
-Machine 10:  607 -> 639
-Machine 2:  647 -> 665
-
-Job id: 14
-Machine 5:  0 -> 27
-Machine 3:  27 -> 53
-Machine 12:  53 -> 81
-Machine 6:  81 -> 118
-Machine 4:  161 -> 179
-Machine 2:  208 -> 220
-Machine 11:  253 -> 264
-Machine 13:  373 -> 399
-Machine 7:  407 -> 434
-Machine 6:  436 -> 476
-Machine 14:  476 -> 495
-Machine 1:  508 -> 532
-Machine 2:  560 -> 578
-Machine 0:  599 -> 611
-Machine 8:  666 -> 700
-
-Job id: 15
-Machine 8:  0 -> 15
-Machine 5:  60 -> 88
-Machine 9:  104 -> 129
-Machine 6:  142 -> 174
-Machine 1:  174 -> 187
-Machine 7:  187 -> 225
-Machine 11:  242 -> 253
-Machine 2:  258 -> 292
-Machine 4:  359 -> 384
-Machine 0:  384 -> 404
-Machine 10:  468 -> 500
-Machine 3:  523 -> 546
-Machine 12:  674 -> 688
-Machine 11:  724 -> 740
-Machine 13:  740 -> 760
-
-Job id: 16
-Machine 1:  36 -> 51
-Machine 4:  51 -> 64
-Machine 8:  64 -> 101
-Machine 3:  211 -> 225
-Machine 10:  249 -> 271
-Machine 5:  271 -> 295
-Machine 12:  295 -> 321
-Machine 7:  332 -> 354
-Machine 9:  480 -> 514
-Machine 14:  514 -> 536
-Machine 11:  536 -> 555
-Machine 13:  558 -> 590
-Machine 9:  590 -> 619
-Machine 2:  757 -> 770
-Machine 6:  785 -> 820
-
-Job id: 17
-Machine 7:  0 -> 36
-Machine 5:  88 -> 121
-Machine 13:  121 -> 149
-Machine 9:  163 -> 183
-Machine 10:  219 -> 249
-Machine 4:  249 -> 282
-Machine 3:  282 -> 311
-Machine 0:  311 -> 345
-Machine 3:  345 -> 367
-Machine 11:  367 -> 379
-Machine 6:  476 -> 506
-Machine 8:  506 -> 518
-Machine 1:  569 -> 604
-Machine 2:  604 -> 617
-Machine 12:  617 -> 652
-
-Job id: 18
-Machine 14:  0 -> 26
-Machine 11:  26 -> 57
-Machine 5:  174 -> 209
-Machine 2:  220 -> 258
-Machine 13:  285 -> 304
-Machine 10:  304 -> 339
-Machine 4:  384 -> 411
-Machine 8:  411 -> 440
-Machine 3:  484 -> 523
-Machine 9:  523 -> 536
-Machine 6:  547 -> 561
-Machine 7:  689 -> 715
-Machine 0:  723 -> 740
-Machine 1:  758 -> 780
-Machine 12:  780 -> 795
-
-Job id: 19
-Machine 1:  0 -> 36
-Machine 7:  36 -> 70
-Machine 11:  118 -> 151
-Machine 8:  219 -> 236
-Machine 14:  236 -> 274
-Machine 6:  297 -> 336
-Machine 5:  379 -> 395
-Machine 3:  457 -> 484
-Machine 13:  497 -> 526
-Machine 2:  578 -> 594
-Machine 0:  647 -> 663
-Machine 6:  663 -> 682
-Machine 9:  698 -> 738
-Machine 12:  738 -> 773
-Machine 10:  780 -> 819
-
-The total time is: 820
+The total time is: 46
 
 During TS
 
-Machine 0 was idle for 393 units of time
-Machine 1 was idle for 326 units of time
-Machine 2 was idle for 309 units of time
-Machine 3 was idle for 302 units of time
-Machine 4 was idle for 326 units of time
-Machine 5 was idle for 317 units of time
-Machine 6 was idle for 258 units of time
-Machine 7 was idle for 266 units of time
-Machine 8 was idle for 340 units of time
-Machine 9 was idle for 296 units of time
-Machine 10 was idle for 362 units of time
-Machine 11 was idle for 361 units of time
-Machine 12 was idle for 295 units of time
-Machine 13 was idle for 288 units of time
-Machine 14 was idle for 419 units of time
+Machine 0 was idle for 20 units of time
+Machine 1 was idle for 4 units of time
+Machine 2 was idle for 10 units of time
+Machine 3 was idle for 15 units of time
+Machine 4 was idle for 33 units of time
+Machine 5 was idle for 13 units of time
 
 
 Results for GA:
 Job id: 0
-Machine 6:  12 -> 26
-Machine 5:  82 -> 103
-Machine 8:  103 -> 116
-Machine 4:  116 -> 127
-Machine 12:  127 -> 138
-Machine 14:  138 -> 173
-Machine 13:  173 -> 193
-Machine 11:  260 -> 277
-Machine 10:  311 -> 329
-Machine 12:  329 -> 340
-Machine 2:  342 -> 365
-Machine 3:  554 -> 567
-Machine 0:  720 -> 735
-Machine 7:  790 -> 801
-Machine 9:  885 -> 920
+Machine 0:  12 -> 17
+Machine 4:  17 -> 20
+Machine 2:  34 -> 38
+Machine 0:  38 -> 39
+Machine 2:  39 -> 40
+Machine 2:  40 -> 46
 
 Job id: 1
-Machine 1:  36 -> 71
-Machine 5:  136 -> 167
-Machine 0:  167 -> 180
-Machine 3:  287 -> 313
-Machine 6:  346 -> 360
-Machine 9:  404 -> 421
-Machine 7:  496 -> 534
-Machine 12:  605 -> 625
-Machine 10:  682 -> 701
-Machine 13:  716 -> 728
-Machine 8:  741 -> 757
-Machine 4:  817 -> 851
-Machine 11:  851 -> 866
-Machine 14:  866 -> 878
-Machine 2:  927 -> 941
+Machine 1:  0 -> 6
+Machine 2:  8 -> 9
+Machine 0:  9 -> 11
+Machine 3:  19 -> 25
+Machine 0:  25 -> 26
 
 Job id: 2
-Machine 0:  0 -> 30
-Machine 4:  30 -> 65
-Machine 2:  68 -> 108
-Machine 10:  152 -> 187
-Machine 6:  251 -> 281
-Machine 14:  281 -> 304
-Machine 8:  491 -> 520
-Machine 13:  523 -> 560
-Machine 7:  675 -> 713
-Machine 3:  713 -> 753
-Machine 9:  753 -> 779
-Machine 7:  779 -> 790
-Machine 1:  866 -> 906
-Machine 11:  906 -> 942
-Machine 5:  942 -> 959
+Machine 1:  7 -> 13
+Machine 2:  20 -> 24
+Machine 5:  32 -> 37
+Machine 1:  43 -> 49
+Machine 0:  49 -> 50
 
 Job id: 3
-Machine 7:  36 -> 76
-Machine 5:  167 -> 185
-Machine 4:  185 -> 197
-Machine 4:  284 -> 307
-Machine 0:  307 -> 330
-Machine 12:  401 -> 415
-Machine 13:  434 -> 450
-Machine 12:  450 -> 464
-Machine 10:  464 -> 487
-Machine 3:  567 -> 579
-Machine 6:  579 -> 595
-Machine 14:  595 -> 627
-Machine 1:  681 -> 721
-Machine 11:  754 -> 779
-Machine 2:  898 -> 927
+Machine 5:  0 -> 5
+Machine 1:  19 -> 25
+Machine 2:  32 -> 33
+Machine 4:  33 -> 36
+Machine 2:  46 -> 50
 
 Job id: 4
-Machine 2:  33 -> 68
-Machine 3:  68 -> 83
-Machine 12:  83 -> 114
-Machine 11:  114 -> 142
-Machine 6:  219 -> 251
-Machine 4:  254 -> 284
-Machine 10:  284 -> 311
-Machine 7:  392 -> 421
-Machine 0:  421 -> 459
-Machine 13:  512 -> 523
-Machine 5:  579 -> 602
-Machine 14:  627 -> 644
-Machine 5:  660 -> 687
-Machine 9:  779 -> 816
-Machine 8:  816 -> 845
+Machine 1:  6 -> 7
+Machine 0:  11 -> 12
+Machine 1:  13 -> 19
+Machine 2:  24 -> 28
+Machine 1:  31 -> 37
+Machine 5:  37 -> 43
 
 Job id: 5
-Machine 5:  49 -> 82
-Machine 3:  109 -> 142
-Machine 6:  174 -> 193
-Machine 12:  193 -> 233
-Machine 10:  233 -> 252
-Machine 0:  252 -> 285
-Machine 13:  285 -> 311
-Machine 2:  311 -> 342
-Machine 11:  342 -> 370
-Machine 7:  443 -> 479
-Machine 4:  479 -> 517
-Machine 1:  517 -> 538
-Machine 14:  538 -> 563
-Machine 9:  655 -> 695
-Machine 8:  845 -> 880
+Machine 2:  0 -> 4
+Machine 0:  17 -> 19
+Machine 5:  26 -> 32
+Machine 1:  37 -> 43
+Machine 5:  43 -> 48
+Machine 3:  48 -> 50
 
 Job id: 6
-Machine 13:  0 -> 25
-Machine 0:  65 -> 97
-Machine 11:  173 -> 206
-Machine 12:  233 -> 251
-Machine 4:  307 -> 339
-Machine 6:  360 -> 388
-Machine 5:  388 -> 403
-Machine 3:  403 -> 438
-Machine 9:  438 -> 452
-Machine 2:  528 -> 562
-Machine 7:  562 -> 585
-Machine 10:  585 -> 617
-Machine 1:  617 -> 634
-Machine 14:  894 -> 920
-Machine 8:  943 -> 962
+Machine 5:  16 -> 17
+Machine 3:  17 -> 19
+Machine 5:  19 -> 25
+Machine 4:  25 -> 26
+Machine 2:  33 -> 34
 
 Job id: 7
-Machine 2:  0 -> 16
-Machine 12:  16 -> 49
-Machine 9:  104 -> 138
-Machine 11:  277 -> 307
-Machine 13:  450 -> 490
-Machine 1:  490 -> 502
-Machine 14:  502 -> 528
-Machine 5:  553 -> 579
-Machine 6:  625 -> 640
-Machine 3:  753 -> 774
-Machine 1:  791 -> 831
-Machine 4:  851 -> 883
-Machine 0:  883 -> 897
-Machine 7:  897 -> 927
-Machine 10:  930 -> 965
+Machine 5:  14 -> 16
+Machine 2:  16 -> 20
+Machine 0:  21 -> 22
+Machine 1:  25 -> 31
+Machine 3:  40 -> 46
 
 Job id: 8
-Machine 2:  16 -> 33
-Machine 10:  33 -> 49
-Machine 14:  75 -> 95
-Machine 6:  95 -> 119
-Machine 6:  193 -> 219
-Machine 3:  224 -> 260
-Machine 12:  464 -> 486
-Machine 10:  487 -> 501
-Machine 13:  501 -> 512
-Machine 9:  567 -> 587
-Machine 7:  623 -> 646
-Machine 7:  646 -> 675
-Machine 11:  779 -> 802
-Machine 4:  802 -> 817
-Machine 5:  817 -> 857
+Machine 5:  5 -> 6
+Machine 0:  6 -> 7
+Machine 3:  7 -> 10
+Machine 0:  19 -> 21
+Machine 2:  28 -> 32
+Machine 3:  32 -> 38
 
 Job id: 9
-Machine 4:  0 -> 27
-Machine 9:  27 -> 64
-Machine 9:  64 -> 104
-Machine 11:  206 -> 220
-Machine 13:  337 -> 362
-Machine 7:  362 -> 392
-Machine 0:  493 -> 527
-Machine 12:  527 -> 538
-Machine 5:  538 -> 553
-Machine 12:  553 -> 585
-Machine 1:  634 -> 670
-Machine 10:  670 -> 682
-Machine 14:  682 -> 710
-Machine 8:  710 -> 741
-Machine 6:  770 -> 793
+Machine 2:  4 -> 8
+Machine 5:  8 -> 14
+Machine 4:  14 -> 17
+Machine 5:  25 -> 26
+Machine 3:  26 -> 32
+Machine 3:  38 -> 40
 
-Job id: 10
-Machine 8:  116 -> 141
-Machine 0:  180 -> 202
-Machine 3:  260 -> 287
-Machine 8:  287 -> 301
-Machine 5:  301 -> 326
-Machine 6:  326 -> 346
-Machine 14:  461 -> 479
-Machine 7:  534 -> 548
-Machine 1:  548 -> 567
-Machine 2:  567 -> 584
-Machine 4:  584 -> 611
-Machine 13:  611 -> 633
-Machine 12:  639 -> 661
-Machine 11:  661 -> 688
-Machine 10:  784 -> 805
-
-Job id: 11
-Machine 14:  0 -> 34
-Machine 10:  137 -> 152
-Machine 0:  285 -> 307
-Machine 3:  313 -> 342
-Machine 13:  400 -> 434
-Machine 6:  434 -> 474
-Machine 7:  479 -> 496
-Machine 2:  496 -> 528
-Machine 12:  585 -> 605
-Machine 5:  605 -> 644
-Machine 4:  644 -> 675
-Machine 11:  738 -> 754
-Machine 1:  754 -> 791
-Machine 2:  791 -> 824
-Machine 9:  920 -> 933
-
-Job id: 12
-Machine 6:  0 -> 12
-Machine 12:  138 -> 165
-Machine 4:  197 -> 214
-Machine 2:  214 -> 238
-Machine 8:  381 -> 392
-Machine 5:  403 -> 422
-Machine 14:  563 -> 574
-Machine 3:  613 -> 630
-Machine 9:  630 -> 655
-Machine 1:  670 -> 681
-Machine 11:  707 -> 738
-Machine 13:  738 -> 771
-Machine 7:  801 -> 832
-Machine 10:  832 -> 844
-Machine 0:  909 -> 931
-
-Job id: 13
-Machine 5:  0 -> 22
-Machine 14:  34 -> 49
-Machine 0:  49 -> 65
-Machine 8:  141 -> 173
-Machine 7:  173 -> 193
-Machine 4:  214 -> 236
-Machine 9:  238 -> 249
-Machine 13:  362 -> 381
-Machine 1:  447 -> 477
-Machine 12:  486 -> 519
-Machine 6:  519 -> 548
-Machine 11:  548 -> 566
-Machine 3:  579 -> 613
-Machine 10:  752 -> 784
-Machine 2:  824 -> 842
-
-Job id: 14
-Machine 5:  22 -> 49
-Machine 3:  83 -> 109
-Machine 10:  109 -> 137
-Machine 6:  137 -> 174
-Machine 4:  236 -> 254
-Machine 2:  254 -> 266
-Machine 12:  266 -> 277
-Machine 13:  311 -> 337
-Machine 8:  337 -> 364
-Machine 9:  364 -> 404
-Machine 14:  404 -> 423
-Machine 1:  423 -> 447
-Machine 2:  447 -> 465
-Machine 0:  897 -> 909
-Machine 8:  909 -> 943
-
-Job id: 15
-Machine 8:  0 -> 15
-Machine 5:  185 -> 213
-Machine 9:  213 -> 238
-Machine 6:  281 -> 313
-Machine 1:  502 -> 515
-Machine 7:  585 -> 623
-Machine 11:  623 -> 634
-Machine 2:  634 -> 668
-Machine 4:  675 -> 700
-Machine 0:  700 -> 720
-Machine 10:  720 -> 752
-Machine 3:  774 -> 797
-Machine 12:  797 -> 811
-Machine 14:  878 -> 894
-Machine 13:  894 -> 914
-
-Job id: 16
-Machine 1:  71 -> 86
-Machine 4:  127 -> 140
-Machine 8:  173 -> 210
-Machine 3:  210 -> 224
-Machine 10:  329 -> 351
-Machine 5:  351 -> 375
-Machine 12:  375 -> 401
-Machine 7:  421 -> 443
-Machine 9:  452 -> 486
-Machine 14:  644 -> 666
-Machine 11:  688 -> 707
-Machine 13:  771 -> 803
-Machine 9:  856 -> 885
-Machine 2:  885 -> 898
-Machine 6:  898 -> 933
-
-Job id: 17
-Machine 7:  0 -> 36
-Machine 5:  103 -> 136
-Machine 13:  136 -> 164
-Machine 9:  164 -> 184
-Machine 10:  252 -> 282
-Machine 4:  339 -> 372
-Machine 3:  372 -> 401
-Machine 0:  459 -> 493
-Machine 3:  493 -> 515
-Machine 11:  515 -> 527
-Machine 6:  595 -> 625
-Machine 8:  625 -> 637
-Machine 1:  831 -> 866
-Machine 2:  866 -> 879
-Machine 12:  891 -> 926
-
-Job id: 18
-Machine 14:  49 -> 75
-Machine 11:  142 -> 173
-Machine 5:  213 -> 248
-Machine 2:  266 -> 304
-Machine 13:  381 -> 400
-Machine 10:  400 -> 435
-Machine 4:  435 -> 462
-Machine 8:  462 -> 491
-Machine 3:  515 -> 554
-Machine 9:  554 -> 567
-Machine 12:  625 -> 639
-Machine 7:  713 -> 739
-Machine 0:  751 -> 768
-Machine 1:  906 -> 928
-Machine 12:  928 -> 943
-
-Job id: 19
-Machine 1:  0 -> 36
-Machine 7:  193 -> 227
-Machine 11:  227 -> 260
-Machine 8:  364 -> 381
-Machine 14:  423 -> 461
-Machine 6:  474 -> 513
-Machine 5:  644 -> 660
-Machine 3:  660 -> 687
-Machine 13:  687 -> 716
-Machine 2:  716 -> 732
-Machine 0:  735 -> 751
-Machine 6:  751 -> 770
-Machine 9:  816 -> 856
-Machine 12:  856 -> 891
-Machine 10:  891 -> 930
-
-The total time is: 965
+The total time is: 50
 
 During GA
 
-Machine 0 was idle for 552 units of time
-Machine 1 was idle for 482 units of time
-Machine 2 was idle for 458 units of time
-Machine 3 was idle for 447 units of time
-Machine 4 was idle for 463 units of time
-Machine 5 was idle for 431 units of time
-Machine 6 was idle for 431 units of time
-Machine 7 was idle for 389 units of time
-Machine 8 was idle for 540 units of time
-Machine 9 was idle for 415 units of time
-Machine 10 was idle for 449 units of time
-Machine 11 was idle for 518 units of time
-Machine 12 was idle for 456 units of time
-Machine 13 was idle for 480 units of time
-Machine 14 was idle for 522 units of time
+Machine 0 was idle for 33 units of time
+Machine 1 was idle for 1 units of time
+Machine 2 was idle for 8 units of time
+Machine 3 was idle for 17 units of time
+Machine 4 was idle for 40 units of time
+Machine 5 was idle for 6 units of time
 
 
 Results for ILS:
 Job id: 0
-Machine 6:  0 -> 14
-Machine 5:  196 -> 217
-Machine 8:  217 -> 230
-Machine 4:  234 -> 245
-Machine 1:  268 -> 279
-Machine 14:  283 -> 318
-Machine 13:  395 -> 415
-Machine 11:  415 -> 432
-Machine 10:  520 -> 538
-Machine 12:  550 -> 561
-Machine 2:  561 -> 584
-Machine 3:  631 -> 644
-Machine 0:  644 -> 659
-Machine 7:  669 -> 680
-Machine 9:  719 -> 754
+Machine 2:  24 -> 28
+Machine 4:  28 -> 31
+Machine 5:  31 -> 33
+Machine 0:  36 -> 37
+Machine 2:  41 -> 42
+Machine 3:  42 -> 45
 
 Job id: 1
-Machine 1:  36 -> 71
-Machine 5:  217 -> 248
-Machine 0:  255 -> 268
-Machine 3:  320 -> 346
-Machine 6:  352 -> 366
-Machine 9:  369 -> 386
-Machine 12:  388 -> 426
-Machine 12:  497 -> 517
-Machine 10:  550 -> 569
-Machine 13:  569 -> 581
-Machine 8:  581 -> 597
-Machine 4:  624 -> 658
-Machine 4:  673 -> 688
-Machine 14:  712 -> 724
-Machine 2:  738 -> 752
+Machine 1:  18 -> 24
+Machine 2:  32 -> 33
+Machine 0:  33 -> 35
+Machine 1:  36 -> 42
+Machine 0:  42 -> 43
 
 Job id: 2
-Machine 0:  0 -> 30
-Machine 4:  30 -> 65
-Machine 2:  65 -> 105
-Machine 10:  135 -> 170
-Machine 6:  204 -> 234
-Machine 14:  234 -> 257
-Machine 8:  309 -> 338
-Machine 13:  358 -> 395
-Machine 7:  419 -> 457
-Machine 3:  501 -> 541
-Machine 9:  541 -> 567
-Machine 12:  567 -> 578
-Machine 1:  608 -> 648
-Machine 11:  648 -> 684
-Machine 5:  721 -> 738
+Machine 1:  0 -> 6
+Machine 5:  24 -> 26
+Machine 0:  35 -> 36
+Machine 2:  37 -> 41
+Machine 0:  43 -> 44
 
 Job id: 3
-Machine 7:  70 -> 110
-Machine 5:  110 -> 128
-Machine 4:  128 -> 140
-Machine 4:  267 -> 290
-Machine 0:  332 -> 355
-Machine 9:  355 -> 369
-Machine 13:  444 -> 460
-Machine 12:  483 -> 497
-Machine 10:  497 -> 520
-Machine 3:  563 -> 575
-Machine 6:  609 -> 625
-Machine 14:  654 -> 686
-Machine 1:  700 -> 740
-Machine 11:  740 -> 765
-Machine 2:  765 -> 794
+Machine 0:  13 -> 14
+Machine 1:  24 -> 30
+Machine 2:  42 -> 43
+Machine 4:  43 -> 46
+Machine 5:  46 -> 48
 
 Job id: 4
-Machine 2:  16 -> 51
-Machine 3:  66 -> 81
-Machine 12:  81 -> 112
-Machine 11:  112 -> 140
-Machine 6:  172 -> 204
-Machine 4:  204 -> 234
-Machine 10:  322 -> 349
-Machine 7:  390 -> 419
-Machine 0:  503 -> 541
-Machine 13:  541 -> 552
-Machine 5:  552 -> 575
-Machine 14:  637 -> 654
-Machine 5:  654 -> 681
-Machine 9:  682 -> 719
-Machine 8:  738 -> 767
+Machine 4:  0 -> 3
+Machine 0:  3 -> 4
+Machine 1:  6 -> 12
+Machine 2:  12 -> 16
+Machine 3:  24 -> 30
+Machine 2:  43 -> 47
 
 Job id: 5
-Machine 5:  0 -> 33
-Machine 3:  33 -> 66
-Machine 6:  66 -> 85
-Machine 12:  112 -> 152
-Machine 10:  203 -> 222
-Machine 0:  222 -> 255
-Machine 13:  287 -> 313
-Machine 2:  347 -> 378
-Machine 11:  432 -> 460
-Machine 7:  471 -> 507
-Machine 4:  507 -> 545
-Machine 1:  563 -> 584
-Machine 14:  584 -> 609
-Machine 9:  629 -> 669
-Machine 8:  669 -> 704
+Machine 5:  2 -> 4
+Machine 0:  8 -> 10
+Machine 2:  20 -> 24
+Machine 1:  30 -> 36
+Machine 0:  37 -> 38
+Machine 3:  45 -> 47
 
 Job id: 6
-Machine 13:  0 -> 25
-Machine 0:  97 -> 129
-Machine 11:  140 -> 173
-Machine 12:  179 -> 197
-Machine 4:  323 -> 355
-Machine 6:  398 -> 426
-Machine 5:  451 -> 466
-Machine 3:  466 -> 501
-Machine 9:  501 -> 515
-Machine 2:  515 -> 549
-Machine 7:  585 -> 608
-Machine 10:  608 -> 640
-Machine 1:  648 -> 665
-Machine 14:  686 -> 712
-Machine 8:  767 -> 786
+Machine 5:  7 -> 8
+Machine 3:  30 -> 32
+Machine 2:  33 -> 37
+Machine 4:  46 -> 47
+Machine 2:  47 -> 48
 
 Job id: 7
-Machine 2:  0 -> 16
-Machine 12:  16 -> 49
-Machine 9:  129 -> 163
-Machine 11:  173 -> 203
-Machine 13:  203 -> 243
-Machine 1:  243 -> 255
-Machine 14:  257 -> 283
-Machine 5:  283 -> 309
-Machine 6:  337 -> 352
-Machine 3:  380 -> 401
-Machine 1:  401 -> 441
-Machine 4:  441 -> 473
-Machine 0:  473 -> 487
-Machine 7:  608 -> 638
-Machine 10:  640 -> 675
+Machine 5:  0 -> 2
+Machine 2:  2 -> 6
+Machine 0:  6 -> 7
+Machine 1:  12 -> 18
+Machine 3:  18 -> 24
 
 Job id: 8
-Machine 2:  105 -> 122
-Machine 10:  170 -> 186
-Machine 14:  186 -> 206
-Machine 6:  234 -> 258
-Machine 8:  258 -> 284
-Machine 3:  284 -> 320
-Machine 12:  320 -> 342
-Machine 0:  355 -> 369
-Machine 13:  460 -> 471
-Machine 9:  471 -> 491
-Machine 7:  507 -> 530
-Machine 7:  530 -> 559
-Machine 11:  597 -> 620
-Machine 4:  658 -> 673
-Machine 5:  681 -> 721
+Machine 5:  4 -> 5
+Machine 0:  7 -> 8
+Machine 3:  8 -> 11
+Machine 0:  11 -> 13
+Machine 2:  28 -> 32
+Machine 1:  42 -> 48
 
 Job id: 9
-Machine 4:  65 -> 92
-Machine 9:  92 -> 129
-Machine 3:  136 -> 176
-Machine 11:  203 -> 217
-Machine 13:  243 -> 268
-Machine 7:  268 -> 298
-Machine 0:  298 -> 332
-Machine 2:  412 -> 423
-Machine 5:  436 -> 451
-Machine 12:  451 -> 483
-Machine 1:  490 -> 526
-Machine 10:  538 -> 550
-Machine 14:  609 -> 637
-Machine 8:  637 -> 668
-Machine 6:  679 -> 702
+Machine 5:  5 -> 7
+Machine 2:  16 -> 20
+Machine 4:  20 -> 23
+Machine 5:  23 -> 24
+Machine 3:  32 -> 38
+Machine 3:  38 -> 40
 
-Job id: 10
-Machine 13:  25 -> 50
-Machine 0:  145 -> 167
-Machine 3:  190 -> 217
-Machine 8:  295 -> 309
-Machine 5:  353 -> 378
-Machine 6:  378 -> 398
-Machine 14:  437 -> 455
-Machine 7:  457 -> 471
-Machine 1:  471 -> 490
-Machine 2:  490 -> 507
-Machine 4:  564 -> 591
-Machine 9:  607 -> 629
-Machine 12:  642 -> 664
-Machine 11:  684 -> 711
-Machine 10:  758 -> 779
-
-Job id: 11
-Machine 14:  26 -> 60
-Machine 10:  60 -> 75
-Machine 0:  75 -> 97
-Machine 3:  107 -> 136
-Machine 13:  136 -> 170
-Machine 6:  258 -> 298
-Machine 7:  298 -> 315
-Machine 2:  315 -> 347
-Machine 12:  368 -> 388
-Machine 5:  397 -> 436
-Machine 4:  473 -> 504
-Machine 11:  504 -> 520
-Machine 1:  526 -> 563
-Machine 4:  591 -> 624
-Machine 9:  669 -> 682
-
-Job id: 12
-Machine 6:  14 -> 26
-Machine 12:  152 -> 179
-Machine 10:  186 -> 203
-Machine 2:  203 -> 227
-Machine 8:  284 -> 295
-Machine 5:  378 -> 397
-Machine 14:  397 -> 408
-Machine 3:  408 -> 425
-Machine 9:  425 -> 450
-Machine 1:  450 -> 461
-Machine 11:  520 -> 551
-Machine 13:  581 -> 614
-Machine 7:  638 -> 669
-Machine 10:  746 -> 758
-Machine 0:  758 -> 780
-
-Job id: 13
-Machine 5:  60 -> 82
-Machine 14:  82 -> 97
-Machine 0:  129 -> 145
-Machine 8:  157 -> 189
-Machine 7:  189 -> 209
-Machine 4:  245 -> 267
-Machine 9:  267 -> 278
-Machine 13:  339 -> 358
-Machine 1:  358 -> 388
-Machine 12:  517 -> 550
-Machine 6:  550 -> 579
-Machine 11:  579 -> 597
-Machine 3:  597 -> 631
-Machine 10:  675 -> 707
-Machine 2:  707 -> 725
-
-Job id: 14
-Machine 5:  33 -> 60
-Machine 3:  81 -> 107
-Machine 10:  107 -> 135
-Machine 6:  135 -> 172
-Machine 4:  172 -> 190
-Machine 12:  197 -> 209
-Machine 11:  249 -> 260
-Machine 13:  313 -> 339
-Machine 8:  339 -> 366
-Machine 6:  426 -> 466
-Machine 14:  477 -> 496
-Machine 1:  584 -> 608
-Machine 2:  608 -> 626
-Machine 0:  631 -> 643
-Machine 8:  704 -> 738
-
-Job id: 15
-Machine 8:  0 -> 15
-Machine 5:  82 -> 110
-Machine 9:  163 -> 188
-Machine 11:  217 -> 249
-Machine 1:  255 -> 268
-Machine 7:  315 -> 353
-Machine 11:  353 -> 364
-Machine 2:  378 -> 412
-Machine 4:  412 -> 437
-Machine 0:  541 -> 561
-Machine 10:  569 -> 601
-Machine 3:  644 -> 667
-Machine 12:  667 -> 681
-Machine 14:  724 -> 740
-Machine 13:  740 -> 760
-
-Job id: 16
-Machine 1:  71 -> 86
-Machine 4:  92 -> 105
-Machine 8:  120 -> 157
-Machine 3:  176 -> 190
-Machine 10:  222 -> 244
-Machine 5:  248 -> 272
-Machine 12:  342 -> 368
-Machine 7:  368 -> 390
-Machine 9:  390 -> 424
-Machine 14:  455 -> 477
-Machine 11:  477 -> 496
-Machine 13:  496 -> 528
-Machine 0:  602 -> 631
-Machine 2:  631 -> 644
-Machine 6:  644 -> 679
-
-Job id: 17
-Machine 7:  0 -> 36
-Machine 5:  128 -> 161
-Machine 13:  170 -> 198
-Machine 9:  198 -> 218
-Machine 10:  244 -> 274
-Machine 4:  290 -> 323
-Machine 14:  408 -> 437
-Machine 0:  437 -> 471
-Machine 3:  541 -> 563
-Machine 11:  563 -> 575
-Machine 6:  579 -> 609
-Machine 8:  609 -> 621
-Machine 1:  665 -> 700
-Machine 2:  725 -> 738
-Machine 12:  738 -> 773
-
-Job id: 18
-Machine 14:  0 -> 26
-Machine 11:  26 -> 57
-Machine 5:  161 -> 196
-Machine 2:  227 -> 265
-Machine 13:  268 -> 287
-Machine 10:  287 -> 322
-Machine 4:  355 -> 382
-Machine 8:  382 -> 411
-Machine 3:  425 -> 464
-Machine 9:  515 -> 528
-Machine 6:  528 -> 542
-Machine 7:  559 -> 585
-Machine 0:  585 -> 602
-Machine 1:  740 -> 762
-Machine 12:  773 -> 788
-
-Job id: 19
-Machine 1:  0 -> 36
-Machine 7:  36 -> 70
-Machine 11:  70 -> 103
-Machine 8:  103 -> 120
-Machine 14:  120 -> 158
-Machine 6:  298 -> 337
-Machine 5:  337 -> 353
-Machine 3:  353 -> 380
-Machine 13:  415 -> 444
-Machine 2:  444 -> 460
-Machine 0:  487 -> 503
-Machine 4:  545 -> 564
-Machine 9:  567 -> 607
-Machine 12:  607 -> 642
-Machine 10:  707 -> 746
-
-The total time is: 794
+The total time is: 48
 
 During ILS
 
-Machine 0 was idle for 338 units of time
-Machine 1 was idle for 300 units of time
-Machine 2 was idle for 321 units of time
-Machine 3 was idle for 265 units of time
-Machine 4 was idle for 242 units of time
-Machine 5 was idle for 260 units of time
-Machine 6 was idle for 283 units of time
-Machine 7 was idle for 267 units of time
-Machine 8 was idle for 368 units of time
-Machine 9 was idle for 317 units of time
-Machine 10 was idle for 275 units of time
-Machine 11 was idle for 319 units of time
-Machine 12 was idle for 285 units of time
-Machine 13 was idle for 306 units of time
-Machine 14 was idle for 322 units of time
+Machine 0 was idle for 33 units of time
+Machine 1 was idle for 0 units of time
+Machine 2 was idle for 8 units of time
+Machine 3 was idle for 18 units of time
+Machine 4 was idle for 35 units of time
+Machine 5 was idle for 33 units of time
 

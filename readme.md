@@ -1,8 +1,6 @@
 # FJSSP Application - Backend Setup Guide
 
-This guide explains how to set up and run the backend components of the Flexible Job Shop Scheduling Problem (FJSSP) application, which consists of a .NET API and Python service. To use the app the frontend part is needed as well, which can be found here [https://github.com/Mihail-Balamatiuc/FJSSP-React-](https://github.com/Mihail-Balamatiuc/FJSSP-React-).
-
-Algorithms used to process the data can be found in pythonService folder in this project or here [https://github.com/Mihail-Balamatiuc/FJSSP](https://github.com/Mihail-Balamatiuc/FJSSP)
+This guide explains how to set up and run the backend components of the Flexible Job Shop Scheduling Problem (FJSSP) application, which consists of a .NET API and Python service. To use the app the frontend part is needed as well.
 
 ## System Requirements
 
